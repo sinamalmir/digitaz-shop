@@ -1,9 +1,14 @@
 import './App.css';
+import MobileAppBar from './components/header/MobileAppBar';
+import MobileFilterBtn from './components/MobileFilterBtn/MobileFilterBtn';
+import MobileProducts from './components/products/MobileProducts';
 
 function App() {
   return (
-   <div className='bg-gray-100'>
-     
+   <div>
+        <MobileAppBar />
+        <MobileFilterBtn />
+        <MobileProducts />
    </div>
   );
 }

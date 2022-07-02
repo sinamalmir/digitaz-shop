@@ -1,0 +1,4423 @@
+{
+status: 200,
+result: [
+{
+type: "category_pane",
+data: {
+parent_id: 1,
+categories: [
+{
+id: 11,
+title_fa: "گوشی موبایل",
+title_en: "گوشی موبایل",
+code: "mobile-phone"
+},
+{
+id: 12,
+title_fa: "لوازم جانبی گوشی موبایل",
+title_en: "لوازم جانبی گوشی موبایل",
+code: "mobile-accessories"
+}
+]
+}
+},
+{
+type: "small_separator",
+data: [ ]
+},
+{
+type: "horizontal_brands_normal",
+data: {
+title: "محبوب‌ترین برندها",
+brands: [
+{
+id: 18,
+title_fa: "سامسونگ",
+title_en: "Samsung",
+image: "https://dkstatics-public.digikala.com/digikala-brands/3960.jpg?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 1662,
+title_fa: "شیائومی",
+title_en: "Xiaomi",
+image: "https://dkstatics-public.digikala.com/digikala-brands/2994.png?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 20,
+title_fa: "نوکیا",
+title_en: "Nokia",
+image: "https://dkstatics-public.digikala.com/digikala-brands/4038.png?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 10,
+title_fa: "اپل",
+title_en: "Apple",
+image: "https://dkstatics-public.digikala.com/digikala-brands/4039.png?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 82,
+title_fa: "هوآوی",
+title_en: "Huawei",
+image: "https://dkstatics-public.digikala.com/digikala-brands/af664f0bcf9bc412b741c618e6e52fc2d090198f_1619269008.png?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 704,
+title_fa: "انرجایزر",
+title_en: "Energizer",
+image: "https://dkstatics-public.digikala.com/digikala-brands/5716.png?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 1919,
+title_fa: "ارد",
+title_en: "Orod",
+image: "https://dkstatics-public.digikala.com/digikala-brands/3456.png?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 23,
+title_fa: "موتورولا",
+title_en: "Motorola",
+image: "https://dkstatics-public.digikala.com/digikala-brands/3524.png?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 121,
+title_fa: "جی ال ایکس",
+title_en: "GLX",
+image: "https://dkstatics-public.digikala.com/digikala-brands/5598.png?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 7186,
+title_fa: "آنر",
+title_en: "Honor",
+image: "https://dkstatics-public.digikala.com/digikala-brands/6842.png?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 13974,
+title_fa: "کاجیتل",
+title_en: "kgtel",
+image: "https://dkstatics-public.digikala.com/digikala-brands/100011043.jpg?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 11349,
+title_fa: "جی پلاس",
+title_en: "G Plus",
+image: "https://dkstatics-public.digikala.com/digikala-brands/d1706f65d063b973d899285d45a111e4f33dc73d_1635590502.jpg?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 4273,
+title_fa: "بلو",
+title_en: "Blu",
+image: "https://dkstatics-public.digikala.com/digikala-brands/2823.png?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 23025,
+title_fa: " اینفینیکس",
+title_en: "Infinix",
+image: "https://dkstatics-public.digikala.com/digikala-brands/8ec810b76cb9379310adb490db5074bfd8cc099f_1618818214.jpg?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 1075,
+title_fa: "کاترپیلار",
+title_en: "CAT",
+image: "https://dkstatics-public.digikala.com/digikala-brands/5932.png?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 18387,
+title_fa: "ریلمی",
+title_en: "realme",
+image: "https://dkstatics-public.digikala.com/digikala-brands/f94892fcfb11874331872c644db1715ef8466d0c_1595341020.jpg?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 6859,
+title_fa: "دوجی",
+title_en: "DOOGEE",
+image: "https://dkstatics-public.digikala.com/digikala-brands/343.png?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 12979,
+title_fa: "زوم می",
+title_en: "zoom me",
+image: "https://dkstatics-public.digikala.com/digikala-brands/100009983.jpg?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+}
+]
+}
+},
+{
+type: "small_separator",
+data: [ ]
+},
+{
+type: "horizontal_products",
+data: {
+products: [
+{
+id: 6460974,
+category_id: 11,
+category_title: "گوشی موبایل",
+title_fa: "گوشی موبایل اپل مدل iPhone 13 Pro Max A2644 دو سیم‌ کارت ظرفیت 256 گیگابایت و رم 6 گیگابایت",
+title_en: "Apple iPhone 13 Pro Max A2644 Dual SIM 256GB And 6GB RAM Mobile Phone ",
+rating: {
+rate: 92,
+count: 1017
+},
+brand: {
+title_fa: "اپل"
+},
+status: "marketable",
+images: {
+main: "https://dkstatics-public.digikala.com/digikala-products/fa5961b7d2a4efb180d686f6f69dd45381a4d3dd_1649056488.jpg?x-oss-process=image/resize,m_lfit,h_240,w_240/quality,q_80"
+},
+default_variant_id: 28928442,
+parameters: {
+color_ids: [
+43,
+2,
+6,
+11,
+15
+]
+},
+properties: {
+is_fast_shopping: false,
+is_ship_by_seller: false,
+is_multi_warehouse: false,
+is_fake: false,
+is_ready_to_ship: true,
+has_gift: false,
+is_medical_supplement: false,
+is_electronic: false,
+is_roosta: false,
+warehouse_label: "موجود در انبار دیجی‌کالا",
+is_ad: false
+},
+warehouse_stock: 0,
+price: {
+selling_price: 535000000,
+rrp_price: 535000000,
+order_limit: 1,
+is_incredible: false,
+is_promotion: false
+},
+digiplus: {
+services: [
+"امکان ارسال فوری (شهر تهران)"
+],
+is_jet_eligible: true,
+cash_back: 0,
+is_general_location_jet_eligible: false
+},
+product_badge: {
+text: "موجود در انبار دیجی‌کالا",
+text_color: "#62666d",
+icon: "cube-badge-available-product",
+icon_color: "#0fabc6"
+}
+},
+{
+id: 4834144,
+category_id: 11,
+category_title: "گوشی موبایل",
+title_fa: "گوشی موبایل سامسونگ مدل Galaxy A32 SM-A325F/DS دو سیم‌کارت ظرفیت 128 گیگابایت و رم 6 گیگابایت",
+title_en: "Samsung Galaxy A32 SM-A325F/DS Dual Sim 128GB And 6GB RAM Mobile Phone",
+rating: {
+rate: 86,
+count: 6195
+},
+brand: {
+title_fa: "سامسونگ"
+},
+status: "marketable",
+images: {
+main: "https://dkstatics-public.digikala.com/digikala-products/f7695f5537bd17fe62ff59b92cf3574ecfaece4b_1656422164.jpg?x-oss-process=image/resize,m_lfit,h_240,w_240/quality,q_80"
+},
+default_variant_id: 28702523,
+parameters: {
+color_ids: [
+4,
+2,
+8,
+1
+]
+},
+properties: {
+is_fast_shopping: false,
+is_ship_by_seller: false,
+is_multi_warehouse: false,
+is_fake: false,
+is_ready_to_ship: true,
+has_gift: false,
+is_medical_supplement: false,
+is_electronic: false,
+is_roosta: false,
+warehouse_label: "موجود در انبار دیجی‌کالا",
+is_ad: false
+},
+warehouse_stock: 0,
+price: {
+selling_price: 57590000,
+rrp_price: 57590000,
+order_limit: 2,
+is_incredible: false,
+is_promotion: false,
+marketable_stock: 1
+},
+digiplus: {
+services: [
+"امکان ارسال فوری (شهر تهران)"
+],
+is_jet_eligible: true,
+cash_back: 0,
+is_general_location_jet_eligible: false
+},
+product_badge: {
+text: "تنها 1 عدد در انبار باقیست",
+text_color: "#d32f2f",
+icon: null,
+icon_color: null
+}
+},
+{
+id: 7845430,
+category_id: 11,
+category_title: "گوشی موبایل",
+title_fa: "گوشی موبایل شیائومی مدل Redmi Note 11 دو سیم‌ کارت ظرفیت 128 گیگابایت و رم 6 گیگابایت",
+title_en: "Xiaomi Redmi Note 11 Dual SIM 128GB And 6GB RAM Mobile Phone",
+rating: {
+rate: 86,
+count: 1231
+},
+brand: {
+title_fa: "شیائومی"
+},
+status: "marketable",
+images: {
+main: "https://dkstatics-public.digikala.com/digikala-products/e477016feaff5a6e6cf930517134eb3888c887ef_1656404674.jpg?x-oss-process=image/resize,m_lfit,h_240,w_240/quality,q_80"
+},
+default_variant_id: 28837233,
+parameters: {
+color_ids: [
+11,
+4,
+1,
+43
+]
+},
+properties: {
+is_fast_shopping: false,
+is_ship_by_seller: false,
+is_multi_warehouse: false,
+is_fake: false,
+is_ready_to_ship: true,
+has_gift: false,
+is_medical_supplement: false,
+is_electronic: false,
+is_roosta: false,
+warehouse_label: "موجود در انبار دیجی‌کالا",
+is_ad: false
+},
+warehouse_stock: 0,
+price: {
+selling_price: 52290000,
+rrp_price: 52290000,
+order_limit: 1,
+is_incredible: false,
+is_promotion: false
+},
+digiplus: {
+services: [
+"امکان ارسال فوری (شهر تهران)"
+],
+is_jet_eligible: true,
+cash_back: 0,
+is_general_location_jet_eligible: false
+},
+product_badge: {
+text: "موجود در انبار دیجی‌کالا",
+text_color: "#62666d",
+icon: "cube-badge-available-product",
+icon_color: "#0fabc6"
+}
+},
+{
+id: 8246609,
+category_id: 11,
+category_title: "گوشی موبایل",
+title_fa: "گوشی موبایل سامسونگ مدل Galaxy A13 SM-A135F/DS دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت",
+title_en: "Samsung Galaxy A13 SM-A135F/DS Dual SIM 64GB And 4GB RAM Mobile Phone",
+rating: {
+rate: 86,
+count: 1226
+},
+brand: {
+title_fa: "سامسونگ"
+},
+status: "marketable",
+images: {
+main: "https://dkstatics-public.digikala.com/digikala-products/744896f967cc8505a9c424c0b00692d72932b53b_1656422331.jpg?x-oss-process=image/resize,m_lfit,h_240,w_240/quality,q_80"
+},
+default_variant_id: 29284607,
+parameters: {
+color_ids: [
+2,
+4,
+1,
+25
+]
+},
+properties: {
+is_fast_shopping: false,
+is_ship_by_seller: false,
+is_multi_warehouse: false,
+is_fake: false,
+is_ready_to_ship: true,
+has_gift: false,
+is_medical_supplement: false,
+is_electronic: false,
+is_roosta: false,
+warehouse_label: "موجود در انبار دیجی‌کالا",
+is_ad: false
+},
+warehouse_stock: 0,
+price: {
+selling_price: 40390000,
+rrp_price: 40390000,
+order_limit: 2,
+is_incredible: false,
+is_promotion: false
+},
+digiplus: {
+services: [
+"امکان ارسال فوری (شهر تهران)"
+],
+is_jet_eligible: true,
+cash_back: 0,
+is_general_location_jet_eligible: false
+},
+product_badge: {
+text: "موجود در انبار دیجی‌کالا",
+text_color: "#62666d",
+icon: "cube-badge-available-product",
+icon_color: "#0fabc6"
+}
+},
+{
+id: 7853233,
+category_id: 11,
+category_title: "گوشی موبایل",
+title_fa: "گوشی موبایل سامسونگ مدل Galaxy S22 Ultra 5G دو سیم کارت ظرفیت 512 گیگابایت و رم 12 گیگابایت",
+title_en: "Samsung Galaxy S22 Ultra 5G Dual SIM 512GB With 12GB RAM Mobile Phone",
+rating: {
+rate: 94,
+count: 192
+},
+brand: {
+title_fa: "سامسونگ"
+},
+status: "marketable",
+images: {
+main: "https://dkstatics-public.digikala.com/digikala-products/3b80e5838f5ff4f674f82d5615296c06cd4f9f8c_1656404883.jpg?x-oss-process=image/resize,m_lfit,h_240,w_240/quality,q_80"
+},
+default_variant_id: 30161390,
+parameters: {
+color_ids: [
+6,
+1,
+2,
+111,
+150
+]
+},
+properties: {
+is_fast_shopping: false,
+is_ship_by_seller: false,
+is_multi_warehouse: false,
+is_fake: false,
+is_ready_to_ship: true,
+has_gift: false,
+is_medical_supplement: false,
+is_electronic: false,
+is_roosta: false,
+warehouse_label: "موجود در انبار دیجی‌کالا",
+is_ad: false
+},
+warehouse_stock: 0,
+price: {
+selling_price: 391990000,
+rrp_price: 410000000,
+order_limit: 2,
+is_incredible: false,
+is_promotion: true,
+badge: {
+title: "فروش ویژه",
+color: "#E6123D",
+icon: null
+},
+is_digiplus_promotion: false,
+is_digiplus_early_access: false,
+is_plus_promotion: false,
+is_plus_early_access: false,
+is_application_incredible: false,
+is_lightening_deal: false
+},
+digiplus: {
+services: [
+"امکان ارسال فوری (شهر تهران)"
+],
+is_jet_eligible: true,
+cash_back: 0,
+is_general_location_jet_eligible: false
+},
+product_badge: {
+text: "موجود در انبار دیجی‌کالا",
+text_color: "#62666d",
+icon: "cube-badge-available-product",
+icon_color: "#0fabc6"
+}
+},
+{
+id: 8119459,
+category_id: 11,
+category_title: "گوشی موبایل",
+title_fa: "گوشی موبایل سامسونگ مدل Galaxy A53 5G SM-A536E/DS دو سیم کارت ظرفیت 256 گیگابایت و رم 8 گیگابایت",
+title_en: "Samsung Galaxy A53 5G SM-A536E/DS Dual SIM 256GB And 8GB RAM Mobile Phone",
+rating: {
+rate: 84,
+count: 683
+},
+brand: {
+title_fa: "سامسونگ"
+},
+status: "marketable",
+images: {
+main: "https://dkstatics-public.digikala.com/digikala-products/871b53a2236bf90e7e37337b1089c39f5c5175ff_1656422780.jpg?x-oss-process=image/resize,m_lfit,h_240,w_240/quality,q_80"
+},
+default_variant_id: 29593713,
+parameters: {
+color_ids: [
+1,
+4,
+25,
+2
+]
+},
+properties: {
+is_fast_shopping: false,
+is_ship_by_seller: false,
+is_multi_warehouse: false,
+is_fake: false,
+is_ready_to_ship: true,
+has_gift: false,
+is_medical_supplement: false,
+is_electronic: false,
+is_roosta: false,
+warehouse_label: "موجود در انبار دیجی‌کالا",
+is_ad: false
+},
+warehouse_stock: 0,
+price: {
+selling_price: 104990000,
+rrp_price: 104990000,
+order_limit: 1,
+is_incredible: false,
+is_promotion: false
+},
+digiplus: {
+services: [
+"امکان ارسال فوری (شهر تهران)"
+],
+is_jet_eligible: true,
+cash_back: 0,
+is_general_location_jet_eligible: false
+},
+product_badge: {
+text: "موجود در انبار دیجی‌کالا",
+text_color: "#62666d",
+icon: "cube-badge-available-product",
+icon_color: "#0fabc6"
+}
+},
+{
+id: 8123707,
+category_id: 11,
+category_title: "گوشی موبایل",
+title_fa: "گوشی موبایل شیائومی مدل Poco X4 Pro 5G 2201116PG دو سیم کارت ظرفیت 256 گیگابایت و رم 8 گیگابایت",
+title_en: "Xiaomi Poco X4 Pro 5G 2201116PG Dual SIM 256GB And 8GB RAM Mobile Phone",
+rating: {
+rate: 86,
+count: 296
+},
+brand: {
+title_fa: "شیائومی"
+},
+status: "marketable",
+images: {
+main: "https://dkstatics-public.digikala.com/digikala-products/932752a3594b8f5d1ddfa62fe4d2a29824096916_1656405344.jpg?x-oss-process=image/resize,m_lfit,h_240,w_240/quality,q_80"
+},
+default_variant_id: 30724072,
+parameters: {
+color_ids: [
+1,
+4,
+5
+]
+},
+properties: {
+is_fast_shopping: false,
+is_ship_by_seller: false,
+is_multi_warehouse: false,
+is_fake: false,
+is_ready_to_ship: true,
+has_gift: false,
+is_medical_supplement: false,
+is_electronic: false,
+is_roosta: false,
+warehouse_label: "موجود در انبار دیجی‌کالا",
+is_ad: false
+},
+warehouse_stock: 0,
+price: {
+selling_price: 84890000,
+rrp_price: 84890000,
+order_limit: 1,
+is_incredible: false,
+is_promotion: false
+},
+digiplus: {
+services: [
+"امکان ارسال فوری (شهر تهران)"
+],
+is_jet_eligible: true,
+cash_back: 0,
+is_general_location_jet_eligible: false
+},
+product_badge: {
+text: "موجود در انبار دیجی‌کالا",
+text_color: "#62666d",
+icon: "cube-badge-available-product",
+icon_color: "#0fabc6"
+}
+},
+{
+id: 8202469,
+category_id: 11,
+category_title: "گوشی موبایل",
+title_fa: "گوشی موبایل اپل مدل iPhone SE 2022 ظرفیت 128 گیگابایت و رم 4 گیگابایت ",
+title_en: "Apple iPhone SE 2022 128GB And 4GB RAM Mobile Phone",
+rating: {
+rate: 84,
+count: 332
+},
+brand: {
+title_fa: "اپل"
+},
+status: "marketable",
+images: {
+main: "https://dkstatics-public.digikala.com/digikala-products/f7f8ffb33f96cb971bec78e2ee1d84dbb09a2a00_1649225266.jpg?x-oss-process=image/resize,m_lfit,h_240,w_240/quality,q_80"
+},
+default_variant_id: 30682303,
+parameters: {
+color_ids: [
+1,
+2,
+3
+]
+},
+properties: {
+is_fast_shopping: false,
+is_ship_by_seller: false,
+is_multi_warehouse: false,
+is_fake: false,
+is_ready_to_ship: true,
+has_gift: false,
+is_medical_supplement: false,
+is_electronic: false,
+is_roosta: false,
+warehouse_label: "موجود در انبار دیجی‌کالا",
+is_ad: false
+},
+warehouse_stock: 0,
+price: {
+selling_price: 165000000,
+rrp_price: 165000000,
+order_limit: 1,
+is_incredible: false,
+is_promotion: false,
+marketable_stock: 1
+},
+digiplus: {
+services: [
+"امکان ارسال فوری (شهر تهران)"
+],
+is_jet_eligible: true,
+cash_back: 0,
+is_general_location_jet_eligible: false
+},
+product_badge: {
+text: "تنها 1 عدد در انبار باقیست",
+text_color: "#d32f2f",
+icon: null,
+icon_color: null
+}
+},
+{
+id: 6459793,
+category_id: 11,
+category_title: "گوشی موبایل",
+title_fa: "گوشی موبایل اپل مدل iPhone 13 A2634 دو سیم‌ کارت ظرفیت 128 گیگابایت و رم 4 گیگابایت",
+title_en: "Apple iPhone 13 A2634 Dual SIM 128GB And 4GB RAM Mobile Phone",
+rating: {
+rate: 90,
+count: 1391
+},
+brand: {
+title_fa: "اپل"
+},
+status: "marketable",
+images: {
+main: "https://dkstatics-public.digikala.com/digikala-products/ec9a962187e1f82cc47e7a148ef99ec1c6fd024d_1656423242.jpg?x-oss-process=image/resize,m_lfit,h_240,w_240/quality,q_80"
+},
+default_variant_id: 30723613,
+parameters: {
+color_ids: [
+4,
+45,
+1,
+2
+]
+},
+properties: {
+is_fast_shopping: false,
+is_ship_by_seller: false,
+is_multi_warehouse: false,
+is_fake: false,
+is_ready_to_ship: true,
+has_gift: false,
+is_medical_supplement: false,
+is_electronic: false,
+is_roosta: false,
+warehouse_label: "موجود در انبار دیجی‌کالا",
+is_ad: false
+},
+warehouse_stock: 8,
+price: {
+selling_price: 367500000,
+rrp_price: 367500000,
+order_limit: 1,
+is_incredible: false,
+is_promotion: false
+},
+digiplus: {
+services: [
+"امکان ارسال فوری (شهر تهران)"
+],
+is_jet_eligible: true,
+cash_back: 0,
+is_general_location_jet_eligible: false
+},
+product_badge: {
+text: "موجود در انبار دیجی‌کالا",
+text_color: "#62666d",
+icon: "cube-badge-available-product",
+icon_color: "#0fabc6"
+}
+},
+{
+id: 8086833,
+category_id: 11,
+category_title: "گوشی موبایل",
+title_fa: "گوشی موبایل سامسونگ مدل Galaxy S22 Ultra 5G دو سیم کارت ظرفیت 256 گیگابایت و رم 12 گیگابایت",
+title_en: "Samsung Galaxy S22 Ultra 5G Dual SIM 256GB With 12GB RAM Mobile Phone",
+rating: {
+rate: 90,
+count: 262
+},
+brand: {
+title_fa: "سامسونگ"
+},
+status: "marketable",
+images: {
+main: "https://dkstatics-public.digikala.com/digikala-products/3b80e5838f5ff4f674f82d5615296c06cd4f9f8c_1656404956.jpg?x-oss-process=image/resize,m_lfit,h_240,w_240/quality,q_80"
+},
+default_variant_id: 28620793,
+parameters: {
+color_ids: [
+1,
+6,
+150,
+2
+]
+},
+properties: {
+is_fast_shopping: false,
+is_ship_by_seller: false,
+is_multi_warehouse: false,
+is_fake: false,
+is_ready_to_ship: true,
+has_gift: false,
+is_medical_supplement: false,
+is_electronic: false,
+is_roosta: false,
+warehouse_label: "موجود در انبار دیجی‌کالا",
+is_ad: false
+},
+warehouse_stock: 0,
+price: {
+selling_price: 354990000,
+rrp_price: 364990000,
+order_limit: 2,
+is_incredible: false,
+is_promotion: true,
+sold_percentage: 40,
+badge: {
+title: "فروش ویژه",
+color: "#E6123D",
+icon: null
+},
+is_digiplus_promotion: false,
+is_digiplus_early_access: false,
+is_plus_promotion: false,
+is_plus_early_access: false,
+is_application_incredible: false,
+is_lightening_deal: false
+},
+digiplus: {
+services: [
+"امکان ارسال فوری (شهر تهران)"
+],
+is_jet_eligible: true,
+cash_back: 0,
+is_general_location_jet_eligible: false
+},
+product_badge: {
+text: "موجود در انبار دیجی‌کالا",
+text_color: "#62666d",
+icon: "cube-badge-available-product",
+icon_color: "#0fabc6"
+}
+},
+{
+id: 5744950,
+category_id: 11,
+category_title: "گوشی موبایل",
+title_fa: "گوشی موبایل شیائومی مدل POCO F3 5G M2012K11AG دو سیم‌ کارت ظرفیت 256 گیگابایت و 8 گیگابایت رم ",
+title_en: "Xiaomi POCO F3 5G M2012K11AG Dual SIM 256GB And 8GB RAM Mobile Phone",
+rating: {
+rate: 90,
+count: 2202
+},
+brand: {
+title_fa: "شیائومی"
+},
+status: "marketable",
+images: {
+main: "https://dkstatics-public.digikala.com/digikala-products/47084405811cbf6b860ad3fb757462aec79d26c5_1656423327.jpg?x-oss-process=image/resize,m_lfit,h_240,w_240/quality,q_80"
+},
+default_variant_id: 29223085,
+parameters: {
+color_ids: [
+1,
+4,
+2,
+12
+]
+},
+properties: {
+is_fast_shopping: false,
+is_ship_by_seller: false,
+is_multi_warehouse: false,
+is_fake: false,
+is_ready_to_ship: true,
+has_gift: false,
+is_medical_supplement: false,
+is_electronic: false,
+is_roosta: false,
+warehouse_label: "موجود در انبار دیجی‌کالا",
+is_ad: false
+},
+warehouse_stock: 0,
+price: {
+selling_price: 94300000,
+rrp_price: 94300000,
+order_limit: 10,
+is_incredible: false,
+is_promotion: false,
+marketable_stock: 2
+},
+digiplus: {
+services: [
+"امکان ارسال فوری (شهر تهران)"
+],
+is_jet_eligible: true,
+cash_back: 0,
+is_general_location_jet_eligible: false
+},
+product_badge: {
+text: "تنها 2 عدد در انبار باقیست",
+text_color: "#d32f2f",
+icon: null,
+icon_color: null
+}
+},
+{
+id: 5986643,
+category_id: 11,
+category_title: "گوشی موبایل",
+title_fa: "گوشی موبایل شیائومی مدل Redmi Note 10 pro M2101K6G دو سیم‌ کارت ظرفیت 128 گیگابایت و رم 8 گیگابایت",
+title_en: "Xiaomi Redmi Note 10 pro M2101K6G Dual SIM 128GB And 8GB RAM Mobile Phone",
+rating: {
+rate: 88,
+count: 754
+},
+brand: {
+title_fa: "شیائومی"
+},
+status: "marketable",
+images: {
+main: "https://dkstatics-public.digikala.com/digikala-products/4fd57505f8871f90ba2165c78410caad711ecd8c_1656426267.jpg?x-oss-process=image/resize,m_lfit,h_240,w_240/quality,q_80"
+},
+default_variant_id: 30580335,
+parameters: {
+color_ids: [
+4,
+11,
+64
+]
+},
+properties: {
+is_fast_shopping: false,
+is_ship_by_seller: false,
+is_multi_warehouse: false,
+is_fake: false,
+is_ready_to_ship: true,
+has_gift: false,
+is_medical_supplement: false,
+is_electronic: false,
+is_roosta: false,
+warehouse_label: "موجود در انبار دیجی‌کالا",
+is_ad: false
+},
+warehouse_stock: 0,
+price: {
+selling_price: 66990000,
+rrp_price: 69900000,
+order_limit: 1,
+is_incredible: false,
+is_promotion: true,
+badge: {
+title: "فروش ویژه",
+color: "#E6123D",
+icon: null
+},
+is_digiplus_promotion: false,
+is_digiplus_early_access: false,
+is_plus_promotion: false,
+is_plus_early_access: false,
+is_application_incredible: false,
+is_lightening_deal: false
+},
+digiplus: {
+services: [
+"امکان ارسال فوری (شهر تهران)"
+],
+is_jet_eligible: true,
+cash_back: 0,
+is_general_location_jet_eligible: false
+},
+product_badge: {
+text: "موجود در انبار دیجی‌کالا",
+text_color: "#62666d",
+icon: "cube-badge-available-product",
+icon_color: "#0fabc6"
+}
+},
+{
+id: 7326528,
+category_id: 11,
+category_title: "گوشی موبایل",
+title_fa: "گوشی موبایل شیائومی مدل 11T Pro 2107113SG 5G دو سیم‌ کارت ظرفیت 256 گیگابایت و رم 12 گیگابایت",
+title_en: "Xiaomi 11T Pro 2107113SG 5G Dual SIM 256GB And 12GB RAM Mobile Phone",
+rating: {
+rate: 88,
+count: 499
+},
+brand: {
+title_fa: "شیائومی"
+},
+status: "marketable",
+images: {
+main: "https://dkstatics-public.digikala.com/digikala-products/351f3709b869cb469bd399ead761557598ce63a3_1656423553.jpg?x-oss-process=image/resize,m_lfit,h_240,w_240/quality,q_80"
+},
+default_variant_id: 30969903,
+parameters: {
+color_ids: [
+2,
+11
+]
+},
+properties: {
+is_fast_shopping: false,
+is_ship_by_seller: false,
+is_multi_warehouse: false,
+is_fake: false,
+is_ready_to_ship: true,
+has_gift: false,
+is_medical_supplement: false,
+is_electronic: false,
+is_roosta: false,
+warehouse_label: "موجود در انبار دیجی‌کالا",
+is_ad: false
+},
+warehouse_stock: 0,
+price: {
+selling_price: 148200000,
+rrp_price: 148200000,
+order_limit: 1,
+is_incredible: false,
+is_promotion: false,
+marketable_stock: 1
+},
+digiplus: {
+services: [
+"امکان ارسال فوری (شهر تهران)"
+],
+is_jet_eligible: true,
+cash_back: 0,
+is_general_location_jet_eligible: false
+},
+product_badge: {
+text: "تنها 1 عدد در انبار باقیست",
+text_color: "#d32f2f",
+icon: null,
+icon_color: null
+}
+},
+{
+id: 8364953,
+category_id: 11,
+category_title: "گوشی موبایل",
+title_fa: "گوشی موبایل سامسونگ مدل Galaxy A73 5G SM-A736B/DS دو سیم کارت ظرفیت 256 گیگابایت و رم 8 گیگابایت",
+title_en: "Samsung Galaxy A73 5G SM-A736B/DS Dual SIM 256GB And 8GB RAM Mobile Phone",
+rating: {
+rate: 82,
+count: 85
+},
+brand: {
+title_fa: "سامسونگ"
+},
+status: "marketable",
+images: {
+main: "https://dkstatics-public.digikala.com/digikala-products/1b95a4ca2d5643f2b03f3721adef4cede444d3c5_1656406812.jpg?x-oss-process=image/resize,m_lfit,h_240,w_240/quality,q_80"
+},
+default_variant_id: 31031552,
+parameters: {
+color_ids: [
+2,
+6,
+11
+]
+},
+properties: {
+is_fast_shopping: false,
+is_ship_by_seller: false,
+is_multi_warehouse: false,
+is_fake: false,
+is_ready_to_ship: true,
+has_gift: false,
+is_medical_supplement: false,
+is_electronic: false,
+is_roosta: false,
+warehouse_label: "موجود در انبار دیجی‌کالا",
+is_ad: false
+},
+warehouse_stock: 0,
+price: {
+selling_price: 141990000,
+rrp_price: 141990000,
+order_limit: 2,
+is_incredible: false,
+is_promotion: false
+},
+digiplus: {
+services: [
+"امکان ارسال فوری (شهر تهران)"
+],
+is_jet_eligible: true,
+cash_back: 0,
+is_general_location_jet_eligible: false
+},
+product_badge: {
+text: "موجود در انبار دیجی‌کالا",
+text_color: "#62666d",
+icon: "cube-badge-available-product",
+icon_color: "#0fabc6"
+}
+},
+{
+id: 6351381,
+category_id: 11,
+category_title: "گوشی موبایل",
+title_fa: "گوشی موبایل سامسونگ مدل Galaxy A52s 5G SM-A528B/DS دو سیم‌کارت ظرفیت 256 گیگابایت و رم 8 گیگابایت",
+title_en: "Samsung Galaxy A52s 5G SM-A528B/DS Dual SIM 256GB And 8GB Ram Mobile Phone",
+rating: {
+rate: 86,
+count: 3424
+},
+brand: {
+title_fa: "سامسونگ"
+},
+status: "marketable",
+images: {
+main: "https://dkstatics-public.digikala.com/digikala-products/fafb9bbc408cbbd0ef07912d976e8ff576d86379_1656434465.jpg?x-oss-process=image/resize,m_lfit,h_240,w_240/quality,q_80"
+},
+default_variant_id: 21534459,
+parameters: {
+color_ids: [
+1,
+8,
+2
+]
+},
+properties: {
+is_fast_shopping: false,
+is_ship_by_seller: false,
+is_multi_warehouse: false,
+is_fake: false,
+is_ready_to_ship: true,
+has_gift: false,
+is_medical_supplement: false,
+is_electronic: false,
+is_roosta: false,
+warehouse_label: "موجود در انبار دیجی‌کالا",
+is_ad: false
+},
+warehouse_stock: 8,
+price: {
+selling_price: 112190000,
+rrp_price: 112190000,
+order_limit: 2,
+is_incredible: false,
+is_promotion: false,
+marketable_stock: 1
+},
+digiplus: {
+services: [
+"امکان ارسال فوری (شهر تهران)"
+],
+is_jet_eligible: true,
+cash_back: 0,
+is_general_location_jet_eligible: false
+},
+product_badge: {
+text: "تنها 1 عدد در انبار باقیست",
+text_color: "#d32f2f",
+icon: null,
+icon_color: null
+}
+},
+{
+id: 8324963,
+category_id: 11,
+category_title: "گوشی موبایل",
+title_fa: "گوشی موبایل شیائومی مدل Mi 11 Ultra M2102K1C دو سیم کارت ظرفیت 512 گیگابایت و رم 12 گیگابایت",
+title_en: "Xiaomi Mi 11 Ultra M2102K1C Dual SIM 512GB And 12GB RAM Mobile Phone",
+rating: {
+rate: 96,
+count: 39
+},
+brand: {
+title_fa: "شیائومی"
+},
+status: "marketable",
+images: {
+main: "https://dkstatics-public.digikala.com/digikala-products/4a54e534d46dedeefd055ea516ff44416dd5ca6a_1656405590.jpg?x-oss-process=image/resize,m_lfit,h_240,w_240/quality,q_80"
+},
+default_variant_id: 30316673,
+parameters: {
+color_ids: [
+1,
+2
+]
+},
+properties: {
+is_fast_shopping: false,
+is_ship_by_seller: false,
+is_multi_warehouse: false,
+is_fake: false,
+is_ready_to_ship: true,
+has_gift: false,
+is_medical_supplement: false,
+is_electronic: false,
+is_roosta: false,
+warehouse_label: "موجود در انبار دیجی‌کالا",
+is_ad: false
+},
+warehouse_stock: 4,
+price: {
+selling_price: 348000000,
+rrp_price: 348000000,
+order_limit: 1,
+is_incredible: false,
+is_promotion: false,
+marketable_stock: 3
+},
+digiplus: {
+services: [
+"امکان ارسال فوری (شهر تهران)"
+],
+is_jet_eligible: true,
+cash_back: 0,
+is_general_location_jet_eligible: false
+},
+product_badge: {
+text: "تنها 3 عدد در انبار باقیست",
+text_color: "#d32f2f",
+icon: null,
+icon_color: null
+}
+}
+],
+title: "محبوب‌ترین کالاها",
+url: {
+url: "https://www.digikala.com/search/category-mobile/?sortby=22",
+page: "category_search_page",
+params: {
+category_id: 1
+},
+queries: {
+sort: 22
+}
+}
+}
+},
+{
+type: "small_separator",
+data: [ ]
+},
+{
+type: "horizontal_products",
+data: {
+products: [
+{
+id: 8873928,
+category_id: 77,
+category_title: "کیف و کاور گوشی",
+title_fa: "کاور مدل BTMN - SHFAF مناسب برای گوشی موبایل شیائومی REDMI 9C",
+title_en: "",
+rating: {
+rate: 0,
+count: 0
+},
+brand: {
+title_fa: "متفرقه"
+},
+status: "marketable",
+images: {
+main: "https://dkstatics-public.digikala.com/digikala-products/0f5b078fefaee111464b5e0336203ecf24627adc_1656443956.jpg?x-oss-process=image/resize,m_lfit,h_240,w_240/quality,q_80"
+},
+default_variant_id: 31463306,
+parameters: {
+color_ids: [
+1,
+3,
+9,
+45
+]
+},
+properties: {
+is_fast_shopping: false,
+is_ship_by_seller: false,
+is_multi_warehouse: false,
+is_fake: false,
+is_ready_to_ship: false,
+has_gift: false,
+is_medical_supplement: false,
+is_electronic: false,
+is_roosta: false,
+is_ad: false
+},
+warehouse_stock: 0,
+price: {
+selling_price: 220000,
+rrp_price: 220000,
+order_limit: 1,
+is_incredible: false,
+is_promotion: false
+},
+digiplus: {
+services: [ ],
+is_jet_eligible: false,
+cash_back: 0,
+is_general_location_jet_eligible: false
+},
+product_badge: [ ]
+},
+{
+id: 8873925,
+category_id: 77,
+category_title: "کیف و کاور گوشی",
+title_fa: "کاور مدل BTMN - SHFAF مناسب برای گوشی موبایل سامسونگ Galaxy A32 5G",
+title_en: "",
+rating: {
+rate: 0,
+count: 0
+},
+brand: {
+title_fa: "متفرقه"
+},
+status: "marketable",
+images: {
+main: "https://dkstatics-public.digikala.com/digikala-products/e8759825b181a037d8a6a4a9ae2782f9c02ba2d2_1656443892.jpg?x-oss-process=image/resize,m_lfit,h_240,w_240/quality,q_80"
+},
+default_variant_id: 31463092,
+parameters: {
+color_ids: [
+1,
+45,
+9,
+3
+]
+},
+properties: {
+is_fast_shopping: false,
+is_ship_by_seller: false,
+is_multi_warehouse: false,
+is_fake: false,
+is_ready_to_ship: false,
+has_gift: false,
+is_medical_supplement: false,
+is_electronic: false,
+is_roosta: false,
+is_ad: false
+},
+warehouse_stock: 0,
+price: {
+selling_price: 220000,
+rrp_price: 220000,
+order_limit: 1,
+is_incredible: false,
+is_promotion: false
+},
+digiplus: {
+services: [ ],
+is_jet_eligible: false,
+cash_back: 0,
+is_general_location_jet_eligible: false
+},
+product_badge: [ ]
+},
+{
+id: 8873908,
+category_id: 77,
+category_title: "کیف و کاور گوشی",
+title_fa: "کاور مدل BTMN - SHFAF مناسب برای گوشی موبایل سامسونگ Galaxy A02s",
+title_en: "",
+rating: {
+rate: 0,
+count: 0
+},
+brand: {
+title_fa: "متفرقه"
+},
+status: "marketable",
+images: {
+main: "https://dkstatics-public.digikala.com/digikala-products/3e988bdca1b23460a05c9e0c445e7b71804abdd7_1656443674.jpg?x-oss-process=image/resize,m_lfit,h_240,w_240/quality,q_80"
+},
+default_variant_id: 31462504,
+parameters: {
+color_ids: [
+45,
+2,
+1,
+3
+]
+},
+properties: {
+is_fast_shopping: false,
+is_ship_by_seller: false,
+is_multi_warehouse: false,
+is_fake: false,
+is_ready_to_ship: false,
+has_gift: false,
+is_medical_supplement: false,
+is_electronic: false,
+is_roosta: false,
+is_ad: false
+},
+warehouse_stock: 0,
+price: {
+selling_price: 220000,
+rrp_price: 220000,
+order_limit: 1,
+is_incredible: false,
+is_promotion: false
+},
+digiplus: {
+services: [ ],
+is_jet_eligible: false,
+cash_back: 0,
+is_general_location_jet_eligible: false
+},
+product_badge: [ ]
+},
+{
+id: 8872852,
+category_id: 77,
+category_title: "کیف و کاور گوشی",
+title_fa: "کاور مدل کشویی کد a2 مناسب برای گوشی موبایل سامسونگ Galaxy A12 \ M12",
+title_en: "",
+rating: {
+rate: 0,
+count: 0
+},
+brand: {
+title_fa: "متفرقه"
+},
+status: "marketable",
+images: {
+main: "https://dkstatics-public.digikala.com/digikala-products/d3bf20f47ef08c94eb41f4e121d85a96876365bc_1656430436.jpg?x-oss-process=image/resize,m_lfit,h_240,w_240/quality,q_80"
+},
+default_variant_id: 31451538,
+parameters: {
+color_ids: [
+32
+]
+},
+properties: {
+is_fast_shopping: false,
+is_ship_by_seller: false,
+is_multi_warehouse: false,
+is_fake: false,
+is_ready_to_ship: false,
+has_gift: false,
+is_medical_supplement: false,
+is_electronic: false,
+is_roosta: false,
+is_ad: false
+},
+warehouse_stock: 0,
+price: {
+selling_price: 550000,
+rrp_price: 1100000,
+order_limit: 1,
+is_incredible: false,
+is_promotion: true,
+marketable_stock: 1,
+badge: {
+title: "فروش ویژه",
+color: "#E6123D",
+icon: null
+},
+is_digiplus_promotion: false,
+is_digiplus_early_access: false,
+is_plus_promotion: false,
+is_plus_early_access: false,
+is_application_incredible: false,
+is_lightening_deal: false
+},
+digiplus: {
+services: [ ],
+is_jet_eligible: false,
+cash_back: 0,
+is_general_location_jet_eligible: false
+},
+product_badge: {
+text: "تنها 1 عدد در انبار باقیست",
+text_color: "#d32f2f",
+icon: null,
+icon_color: null
+}
+},
+{
+id: 8868239,
+category_id: 77,
+category_title: "کیف و کاور گوشی",
+title_fa: "کاور نیلکین مدل CamShield Silky silicon مناسب برای گوشی موبایل سامسونگ Galaxy Z Fold3 5G / W22 5G",
+title_en: "",
+rating: {
+rate: 0,
+count: 0
+},
+brand: {
+title_fa: "نیلکین"
+},
+status: "marketable",
+images: {
+main: "https://dkstatics-public.digikala.com/digikala-products/64b27e785cfc84c519f445eb85cc70091a4cbbfd_1656404141.jpg?x-oss-process=image/resize,m_lfit,h_240,w_240/quality,q_80"
+},
+default_variant_id: 31449911,
+parameters: {
+color_ids: [
+1,
+55
+]
+},
+properties: {
+is_fast_shopping: false,
+is_ship_by_seller: true,
+is_multi_warehouse: false,
+is_fake: false,
+is_ready_to_ship: false,
+has_gift: false,
+is_medical_supplement: false,
+is_electronic: false,
+is_roosta: false,
+is_ad: false
+},
+warehouse_stock: 0,
+price: {
+selling_price: 5840000,
+rrp_price: 5840000,
+order_limit: 2,
+is_incredible: false,
+is_promotion: false
+},
+digiplus: {
+services: [ ],
+is_jet_eligible: false,
+cash_back: 0,
+is_general_location_jet_eligible: false
+},
+product_badge: {
+text: "ارسال توسط فروشنده",
+text_color: "#62666d",
+icon: "cube-badge-delivery-ship-by-seller",
+icon_color: "#d86b00"
+}
+},
+{
+id: 8868111,
+category_id: 10072,
+category_title: "محافظ لنز گوشی موبایل",
+title_fa: "محافظ لنز دوربین شیلد گلس مدل LFUL مناسب برای گوشی موبایل سامسونگ Galaxy S20 FE",
+title_en: " Shield Glass LFUL Camera Lens Protector For Samsung Galaxy S20 FE",
+rating: {
+rate: 0,
+count: 0
+},
+brand: {
+title_fa: "متفرقه"
+},
+status: "marketable",
+images: {
+main: "https://dkstatics-public.digikala.com/digikala-products/a2aeb6d3f5dbec3bd36fef35f1b351f209e9d1c5_1656403329.jpg?x-oss-process=image/resize,m_lfit,h_240,w_240/quality,q_80"
+},
+default_variant_id: 31429463,
+parameters: {
+color_ids: [
+1
+]
+},
+properties: {
+is_fast_shopping: false,
+is_ship_by_seller: false,
+is_multi_warehouse: false,
+is_fake: false,
+is_ready_to_ship: false,
+has_gift: false,
+is_medical_supplement: false,
+is_electronic: false,
+is_roosta: false,
+is_ad: false
+},
+warehouse_stock: 0,
+price: {
+selling_price: 327000,
+rrp_price: 750000,
+order_limit: 2,
+is_incredible: false,
+is_promotion: true,
+badge: {
+title: "فروش ویژه",
+color: "#E6123D",
+icon: null
+},
+is_digiplus_promotion: false,
+is_digiplus_early_access: false,
+is_plus_promotion: false,
+is_plus_early_access: false,
+is_application_incredible: false,
+is_lightening_deal: false
+},
+digiplus: {
+services: [ ],
+is_jet_eligible: false,
+cash_back: 0,
+is_general_location_jet_eligible: false
+},
+product_badge: [ ]
+},
+{
+id: 8867798,
+category_id: 77,
+category_title: "کیف و کاور گوشی",
+title_fa: "کیف کلاسوری نیلکین مدل Qin Pro Leather مناسب برای گوشی موبایل شیائومی Xiaomi Redmi Note 11 Pro 4G Global/ Redmi Note 11 Pro 5G Global/ Redmi Note 11E Pro 5G",
+title_en: "Qin Pro Leather case for Xiaomi Redmi Note 11 Pro 4G Global/ Redmi Note 11 Pro 5G Global/ Redmi Note 11E Pro 5G",
+rating: {
+rate: 0,
+count: 0
+},
+brand: {
+title_fa: "نیلکین"
+},
+status: "marketable",
+images: {
+main: "https://dkstatics-public.digikala.com/digikala-products/042882532a7a09dd32baef4c67bac25ea18f15c2_1656401863.jpg?x-oss-process=image/resize,m_lfit,h_240,w_240/quality,q_80"
+},
+default_variant_id: 31449822,
+parameters: {
+color_ids: [
+1,
+55,
+14,
+3
+]
+},
+properties: {
+is_fast_shopping: false,
+is_ship_by_seller: true,
+is_multi_warehouse: false,
+is_fake: false,
+is_ready_to_ship: false,
+has_gift: false,
+is_medical_supplement: false,
+is_electronic: false,
+is_roosta: false,
+is_ad: false
+},
+warehouse_stock: 0,
+price: {
+selling_price: 3700000,
+rrp_price: 3700000,
+order_limit: 2,
+is_incredible: false,
+is_promotion: false
+},
+digiplus: {
+services: [ ],
+is_jet_eligible: false,
+cash_back: 0,
+is_general_location_jet_eligible: false
+},
+product_badge: {
+text: "ارسال توسط فروشنده",
+text_color: "#62666d",
+icon: "cube-badge-delivery-ship-by-seller",
+icon_color: "#d86b00"
+}
+},
+{
+id: 8864939,
+category_id: 77,
+category_title: "کیف و کاور گوشی",
+title_fa: "کاور کلاسیک طرح رنگین کمانی مدل سیلیکون مناسب برای گوشی موبایل شیائومی REDMi NOTE 11 4g / NOTE 11S",
+title_en: "",
+rating: {
+rate: 0,
+count: 0
+},
+brand: {
+title_fa: "متفرقه"
+},
+status: "marketable",
+images: {
+main: "https://dkstatics-public.digikala.com/digikala-products/05e7d10808d4cd7b2148079dc89d4a8cd272fbde_1656359347.jpg?x-oss-process=image/resize,m_lfit,h_240,w_240/quality,q_80"
+},
+default_variant_id: 31439071,
+parameters: {
+color_ids: [
+3,
+4,
+7,
+8,
+24,
+32,
+77,
+150,
+1,
+2
+]
+},
+properties: {
+is_fast_shopping: false,
+is_ship_by_seller: false,
+is_multi_warehouse: false,
+is_fake: true,
+is_ready_to_ship: true,
+has_gift: false,
+is_medical_supplement: false,
+is_electronic: false,
+is_roosta: false,
+warehouse_label: "موجود در انبار دیجی‌کالا",
+is_ad: false
+},
+warehouse_stock: 4,
+price: {
+selling_price: 1258300,
+rrp_price: 2105300,
+order_limit: 14,
+is_incredible: false,
+is_promotion: true,
+marketable_stock: 2,
+badge: {
+title: "فروش ویژه",
+color: "#E6123D",
+icon: null
+},
+is_digiplus_promotion: false,
+is_digiplus_early_access: false,
+is_plus_promotion: false,
+is_plus_early_access: false,
+is_application_incredible: false,
+is_lightening_deal: false
+},
+digiplus: {
+services: [
+"امکان ارسال فوری (شهر تهران)"
+],
+is_jet_eligible: true,
+cash_back: 0,
+is_general_location_jet_eligible: false
+},
+product_badge: {
+text: "تنها 2 عدد در انبار باقیست",
+text_color: "#d32f2f",
+icon: null,
+icon_color: null
+}
+},
+{
+id: 8859537,
+category_id: 77,
+category_title: "کیف و کاور گوشی",
+title_fa: "کاور کد Q305 مناسب برای گوشی موبایل اپل iPhone 13 pro max",
+title_en: "",
+rating: {
+rate: 0,
+count: 0
+},
+brand: {
+title_fa: "متفرقه"
+},
+status: "marketable",
+images: {
+main: "https://dkstatics-public.digikala.com/digikala-products/4daeeeb6d08df8b5306a6c27ee551fdb07c0be3f_1656317194.jpg?x-oss-process=image/resize,m_lfit,h_240,w_240/quality,q_80"
+},
+default_variant_id: 31395651,
+parameters: {
+color_ids: [
+35
+]
+},
+properties: {
+is_fast_shopping: false,
+is_ship_by_seller: false,
+is_multi_warehouse: false,
+is_fake: false,
+is_ready_to_ship: true,
+has_gift: false,
+is_medical_supplement: false,
+is_electronic: false,
+is_roosta: false,
+warehouse_label: "موجود در انبار دیجی‌کالا",
+is_ad: false
+},
+warehouse_stock: 1,
+price: {
+selling_price: 2200000,
+rrp_price: 2200000,
+order_limit: 1,
+is_incredible: false,
+is_promotion: false,
+marketable_stock: 1
+},
+digiplus: {
+services: [ ],
+is_jet_eligible: false,
+cash_back: 0,
+is_general_location_jet_eligible: false
+},
+product_badge: {
+text: "تنها 1 عدد در انبار باقیست",
+text_color: "#d32f2f",
+icon: null,
+icon_color: null
+}
+},
+{
+id: 8859402,
+category_id: 76,
+category_title: "محافظ صفحه نمایش گوشی",
+title_fa: " محافظ صفحه نمایش شیلد گلس مدل PRIVACY مناسب برای گوشی موبایل شیائومی Poco F3 / Black Shark 4 / Black Shark 4 Pro",
+title_en: " Shield Glass PRIVACY Screen Protector Glass For Xiaomi Poco F3 / Black Shark 4 / Black Shark 4 Pro",
+rating: {
+rate: 0,
+count: 0
+},
+brand: {
+title_fa: "متفرقه"
+},
+status: "marketable",
+images: {
+main: "https://dkstatics-public.digikala.com/digikala-products/2575af5e8e343e629ff18d35742cc9e84fb08ab4_1656316540.jpg?x-oss-process=image/resize,m_lfit,h_240,w_240/quality,q_80"
+},
+default_variant_id: 31394936,
+parameters: {
+color_ids: [
+1
+]
+},
+properties: {
+is_fast_shopping: false,
+is_ship_by_seller: false,
+is_multi_warehouse: false,
+is_fake: false,
+is_ready_to_ship: false,
+has_gift: false,
+is_medical_supplement: false,
+is_electronic: false,
+is_roosta: false,
+is_ad: false
+},
+warehouse_stock: 0,
+price: {
+selling_price: 412000,
+rrp_price: 800000,
+order_limit: 2,
+is_incredible: false,
+is_promotion: true,
+badge: {
+title: "فروش ویژه",
+color: "#E6123D",
+icon: null
+},
+is_digiplus_promotion: false,
+is_digiplus_early_access: false,
+is_plus_promotion: false,
+is_plus_early_access: false,
+is_application_incredible: false,
+is_lightening_deal: false
+},
+digiplus: {
+services: [ ],
+is_jet_eligible: false,
+cash_back: 0,
+is_general_location_jet_eligible: false
+},
+product_badge: [ ]
+},
+{
+id: 8855124,
+category_id: 77,
+category_title: "کیف و کاور گوشی",
+title_fa: " کاور مدل اسب تک شاخ مناسب برای کیس اپل ایرپاد 1 / 2 ",
+title_en: "",
+rating: {
+rate: 0,
+count: 0
+},
+brand: {
+title_fa: "متفرقه"
+},
+status: "marketable",
+images: {
+main: "https://dkstatics-public.digikala.com/digikala-products/eed29e69f941effdcd97b00eb5f4434a48a1c0c6_1656269243.jpg?x-oss-process=image/resize,m_lfit,h_240,w_240/quality,q_80"
+},
+default_variant_id: 31379579,
+parameters: {
+color_ids: [
+7
+]
+},
+properties: {
+is_fast_shopping: false,
+is_ship_by_seller: false,
+is_multi_warehouse: false,
+is_fake: false,
+is_ready_to_ship: true,
+has_gift: false,
+is_medical_supplement: false,
+is_electronic: false,
+is_roosta: false,
+warehouse_label: "موجود در انبار دیجی‌کالا",
+is_ad: false
+},
+warehouse_stock: 1,
+price: {
+selling_price: 1590000,
+rrp_price: 1790000,
+order_limit: 5,
+is_incredible: false,
+is_promotion: true,
+marketable_stock: 1,
+badge: {
+title: "فروش ویژه",
+color: "#E6123D",
+icon: null
+},
+is_digiplus_promotion: false,
+is_digiplus_early_access: false,
+is_plus_promotion: false,
+is_plus_early_access: false,
+is_application_incredible: false,
+is_lightening_deal: false
+},
+digiplus: {
+services: [
+"امکان ارسال فوری (شهر تهران)"
+],
+is_jet_eligible: true,
+cash_back: 0,
+is_general_location_jet_eligible: false
+},
+product_badge: {
+text: "تنها 1 عدد در انبار باقیست",
+text_color: "#d32f2f",
+icon: null,
+icon_color: null
+}
+},
+{
+id: 8855118,
+category_id: 77,
+category_title: "کیف و کاور گوشی",
+title_fa: " کاور مدل چارلی کارتون اسنوپی مناسب برای کیس اپل ایرپاد پرو",
+title_en: "",
+rating: {
+rate: 0,
+count: 0
+},
+brand: {
+title_fa: "متفرقه"
+},
+status: "marketable",
+images: {
+main: "https://dkstatics-public.digikala.com/digikala-products/25c1a1d58ca85d756f631502341bcdece739e754_1656269120.jpg?x-oss-process=image/resize,m_lfit,h_240,w_240/quality,q_80"
+},
+default_variant_id: 31379159,
+parameters: {
+color_ids: [
+144
+]
+},
+properties: {
+is_fast_shopping: false,
+is_ship_by_seller: false,
+is_multi_warehouse: false,
+is_fake: false,
+is_ready_to_ship: true,
+has_gift: false,
+is_medical_supplement: false,
+is_electronic: false,
+is_roosta: false,
+warehouse_label: "موجود در انبار دیجی‌کالا",
+is_ad: false
+},
+warehouse_stock: 1,
+price: {
+selling_price: 1690000,
+rrp_price: 1890000,
+order_limit: 5,
+is_incredible: false,
+is_promotion: true,
+marketable_stock: 1,
+badge: {
+title: "فروش ویژه",
+color: "#E6123D",
+icon: null
+},
+is_digiplus_promotion: false,
+is_digiplus_early_access: false,
+is_plus_promotion: false,
+is_plus_early_access: false,
+is_application_incredible: false,
+is_lightening_deal: false
+},
+digiplus: {
+services: [
+"امکان ارسال فوری (شهر تهران)"
+],
+is_jet_eligible: true,
+cash_back: 0,
+is_general_location_jet_eligible: false
+},
+product_badge: {
+text: "تنها 1 عدد در انبار باقیست",
+text_color: "#d32f2f",
+icon: null,
+icon_color: null
+}
+},
+{
+id: 8851908,
+category_id: 77,
+category_title: "کیف و کاور گوشی",
+title_fa: "کاور لاین کینگ مدل Warrior مناسب برای گوشی موبایل سامسونگ Galaxy A53 5G",
+title_en: "",
+rating: {
+rate: 0,
+count: 0
+},
+brand: {
+title_fa: "متفرقه"
+},
+status: "marketable",
+images: {
+main: "https://dkstatics-public.digikala.com/digikala-products/04c895ca08ec2e1b022adf198e1f8ee673e2a368_1656245638.jpg?x-oss-process=image/resize,m_lfit,h_240,w_240/quality,q_80"
+},
+default_variant_id: 31368684,
+parameters: {
+color_ids: [
+1,
+9,
+3,
+77
+]
+},
+properties: {
+is_fast_shopping: false,
+is_ship_by_seller: false,
+is_multi_warehouse: false,
+is_fake: false,
+is_ready_to_ship: false,
+has_gift: false,
+is_medical_supplement: false,
+is_electronic: false,
+is_roosta: false,
+is_ad: false
+},
+warehouse_stock: 0,
+price: {
+selling_price: 825000,
+rrp_price: 1500000,
+order_limit: 5,
+is_incredible: false,
+is_promotion: true,
+badge: {
+title: "فروش ویژه",
+color: "#E6123D",
+icon: null
+},
+is_digiplus_promotion: false,
+is_digiplus_early_access: false,
+is_plus_promotion: false,
+is_plus_early_access: false,
+is_application_incredible: false,
+is_lightening_deal: false
+},
+digiplus: {
+services: [ ],
+is_jet_eligible: false,
+cash_back: 0,
+is_general_location_jet_eligible: false
+},
+product_badge: [ ]
+},
+{
+id: 8850502,
+category_id: 77,
+category_title: "کیف و کاور گوشی",
+title_fa: "كاور كد 11 مناسب براي گوشي موبايل سامسونگ Galaxy A10s",
+title_en: "",
+rating: {
+rate: 0,
+count: 0
+},
+brand: {
+title_fa: "متفرقه"
+},
+status: "marketable",
+images: {
+main: "https://dkstatics-public.digikala.com/digikala-products/6d496d47ded4999332e28e5edab24f83ffb24fa9_1656242277.jpg?x-oss-process=image/resize,m_lfit,h_240,w_240/quality,q_80"
+},
+default_variant_id: 31367436,
+parameters: {
+color_ids: [
+11
+]
+},
+properties: {
+is_fast_shopping: false,
+is_ship_by_seller: false,
+is_multi_warehouse: false,
+is_fake: true,
+is_ready_to_ship: false,
+has_gift: false,
+is_medical_supplement: false,
+is_electronic: false,
+is_roosta: false,
+is_ad: false
+},
+warehouse_stock: 0,
+price: {
+selling_price: 270000,
+rrp_price: 600000,
+order_limit: 5,
+is_incredible: false,
+is_promotion: true,
+marketable_stock: 2,
+badge: {
+title: "فروش ویژه",
+color: "#E6123D",
+icon: null
+},
+is_digiplus_promotion: false,
+is_digiplus_early_access: false,
+is_plus_promotion: false,
+is_plus_early_access: false,
+is_application_incredible: false,
+is_lightening_deal: false
+},
+digiplus: {
+services: [ ],
+is_jet_eligible: false,
+cash_back: 0,
+is_general_location_jet_eligible: false
+},
+product_badge: {
+text: "تنها 2 عدد در انبار باقیست",
+text_color: "#d32f2f",
+icon: null,
+icon_color: null
+}
+},
+{
+id: 8849983,
+category_id: 11,
+category_title: "گوشی موبایل",
+title_fa: "گوشی موبایل نوکیا مدل G21 TA-1418 دو سیم‌ کارت ظرفیت 128 گیگابایت و رم 6 گیگابایت به همراه کارت هدیه 400 هزار تومانی",
+title_en: "Nokia G21 TA-1418 Dual SIM 128GB And 6GB RAM Mobile Phone with Four hundred thousand tomans gift card",
+rating: {
+rate: 0,
+count: 0
+},
+brand: {
+title_fa: "نوکیا"
+},
+status: "marketable",
+images: {
+main: "https://dkstatics-public.digikala.com/digikala-products/936637a180fb8e9c8df0a1b70731cf018051a840_1656493465.jpg?x-oss-process=image/resize,m_lfit,h_240,w_240/quality,q_80"
+},
+default_variant_id: 31386129,
+parameters: {
+color_ids: [
+14,
+42
+]
+},
+properties: {
+is_fast_shopping: false,
+is_ship_by_seller: false,
+is_multi_warehouse: false,
+is_fake: false,
+is_ready_to_ship: true,
+has_gift: false,
+is_medical_supplement: false,
+is_electronic: false,
+is_roosta: false,
+warehouse_label: "موجود در انبار دیجی‌کالا",
+is_ad: false
+},
+warehouse_stock: 0,
+price: {
+selling_price: 47990000,
+rrp_price: 50500000,
+order_limit: 1,
+is_incredible: false,
+is_promotion: true,
+badge: {
+title: "فروش ویژه",
+color: "#E6123D",
+icon: null
+},
+is_digiplus_promotion: false,
+is_digiplus_early_access: false,
+is_plus_promotion: false,
+is_plus_early_access: false,
+is_application_incredible: false,
+is_lightening_deal: false
+},
+digiplus: {
+services: [
+"امکان ارسال فوری (شهر تهران)"
+],
+is_jet_eligible: true,
+cash_back: 0,
+is_general_location_jet_eligible: false
+},
+product_badge: {
+text: "موجود در انبار دیجی‌کالا",
+text_color: "#62666d",
+icon: "cube-badge-available-product",
+icon_color: "#0fabc6"
+}
+},
+{
+id: 8848638,
+category_id: 77,
+category_title: "کیف و کاور گوشی",
+title_fa: " کاور مدل یونیکورن فانتزی مناسب برای کیس اپل ایرپاد 1 / 2 ",
+title_en: "",
+rating: {
+rate: 0,
+count: 0
+},
+brand: {
+title_fa: "متفرقه"
+},
+status: "marketable",
+images: {
+main: "https://dkstatics-public.digikala.com/digikala-products/f6adaf494cb725697b29e0999f7ee5f5daaf1b27_1656230892.jpg?x-oss-process=image/resize,m_lfit,h_240,w_240/quality,q_80"
+},
+default_variant_id: 31379040,
+parameters: {
+color_ids: [
+2
+]
+},
+properties: {
+is_fast_shopping: false,
+is_ship_by_seller: false,
+is_multi_warehouse: false,
+is_fake: false,
+is_ready_to_ship: true,
+has_gift: false,
+is_medical_supplement: false,
+is_electronic: false,
+is_roosta: false,
+warehouse_label: "موجود در انبار دیجی‌کالا",
+is_ad: false
+},
+warehouse_stock: 2,
+price: {
+selling_price: 1490000,
+rrp_price: 1690000,
+order_limit: 5,
+is_incredible: false,
+is_promotion: true,
+marketable_stock: 2,
+badge: {
+title: "فروش ویژه",
+color: "#E6123D",
+icon: null
+},
+is_digiplus_promotion: false,
+is_digiplus_early_access: false,
+is_plus_promotion: false,
+is_plus_early_access: false,
+is_application_incredible: false,
+is_lightening_deal: false
+},
+digiplus: {
+services: [
+"امکان ارسال فوری (شهر تهران)"
+],
+is_jet_eligible: true,
+cash_back: 0,
+is_general_location_jet_eligible: false
+},
+product_badge: {
+text: "تنها 2 عدد در انبار باقیست",
+text_color: "#d32f2f",
+icon: null,
+icon_color: null
+}
+}
+],
+title: "منتخب جدیدترین کالاها",
+url: {
+url: "https://www.digikala.com/search/category-mobile/?sortby=1",
+page: "category_search_page",
+params: {
+category_id: 1
+},
+queries: {
+sort: 1
+}
+}
+}
+},
+{
+type: "small_separator",
+data: [ ]
+},
+{
+type: "horizontal_products",
+data: {
+products: [
+{
+id: 8246609,
+category_id: 11,
+category_title: "گوشی موبایل",
+title_fa: "گوشی موبایل سامسونگ مدل Galaxy A13 SM-A135F/DS دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت",
+title_en: "Samsung Galaxy A13 SM-A135F/DS Dual SIM 64GB And 4GB RAM Mobile Phone",
+rating: {
+rate: 86,
+count: 1226
+},
+brand: {
+title_fa: "سامسونگ"
+},
+status: "marketable",
+images: {
+main: "https://dkstatics-public.digikala.com/digikala-products/744896f967cc8505a9c424c0b00692d72932b53b_1656422331.jpg?x-oss-process=image/resize,m_lfit,h_240,w_240/quality,q_80"
+},
+default_variant_id: 29284607,
+parameters: {
+color_ids: [
+2,
+4,
+1,
+25
+]
+},
+properties: {
+is_fast_shopping: false,
+is_ship_by_seller: false,
+is_multi_warehouse: false,
+is_fake: false,
+is_ready_to_ship: true,
+has_gift: false,
+is_medical_supplement: false,
+is_electronic: false,
+is_roosta: false,
+warehouse_label: "موجود در انبار دیجی‌کالا",
+is_ad: false
+},
+warehouse_stock: 0,
+price: {
+selling_price: 40390000,
+rrp_price: 40390000,
+order_limit: 2,
+is_incredible: false,
+is_promotion: false
+},
+digiplus: {
+services: [
+"امکان ارسال فوری (شهر تهران)"
+],
+is_jet_eligible: true,
+cash_back: 0,
+is_general_location_jet_eligible: false
+},
+product_badge: {
+text: "موجود در انبار دیجی‌کالا",
+text_color: "#62666d",
+icon: "cube-badge-available-product",
+icon_color: "#0fabc6"
+}
+},
+{
+id: 640309,
+category_id: 81,
+category_title: "پایه نگهدارنده گوشی و تبلت",
+title_fa: "پایه نگهدارنده گوشی موبایل و تبلت یونیورسال مدل 270 درجه",
+title_en: "Mvk Universal Mobile Phone Tablet Stand Holder Stand 270 Rotation",
+rating: {
+rate: 78,
+count: 16448
+},
+brand: {
+title_fa: "یونیورسال"
+},
+status: "marketable",
+images: {
+main: "https://dkstatics-public.digikala.com/digikala-products/2776164.jpg?x-oss-process=image/resize,m_lfit,h_240,w_240/quality,q_80"
+},
+default_variant_id: 28752611,
+parameters: {
+color_ids: [
+1,
+8,
+5,
+6,
+4,
+109,
+138,
+113,
+55,
+67,
+63,
+85,
+152,
+82,
+9,
+18,
+43,
+68,
+128,
+86,
+77,
+44,
+11,
+2,
+3,
+28,
+119,
+80,
+39,
+153,
+73,
+65,
+7,
+74,
+93,
+17,
+49,
+41,
+16,
+12,
+54,
+124,
+155,
+15
+]
+},
+properties: {
+is_fast_shopping: false,
+is_ship_by_seller: false,
+is_multi_warehouse: false,
+is_fake: false,
+is_ready_to_ship: true,
+has_gift: false,
+is_medical_supplement: false,
+is_electronic: false,
+is_roosta: false,
+warehouse_label: "موجود در انبار دیجی‌کالا",
+is_ad: false
+},
+warehouse_stock: 0,
+price: {
+selling_price: 94400,
+rrp_price: 94400,
+order_limit: 5,
+is_incredible: false,
+is_promotion: false
+},
+digiplus: {
+services: [
+"امکان ارسال فوری (شهر تهران)"
+],
+is_jet_eligible: true,
+cash_back: 0,
+is_general_location_jet_eligible: false
+},
+product_badge: {
+text: "موجود در انبار دیجی‌کالا",
+text_color: "#62666d",
+icon: "cube-badge-available-product",
+icon_color: "#0fabc6"
+}
+},
+{
+id: 4834144,
+category_id: 11,
+category_title: "گوشی موبایل",
+title_fa: "گوشی موبایل سامسونگ مدل Galaxy A32 SM-A325F/DS دو سیم‌کارت ظرفیت 128 گیگابایت و رم 6 گیگابایت",
+title_en: "Samsung Galaxy A32 SM-A325F/DS Dual Sim 128GB And 6GB RAM Mobile Phone",
+rating: {
+rate: 86,
+count: 6195
+},
+brand: {
+title_fa: "سامسونگ"
+},
+status: "marketable",
+images: {
+main: "https://dkstatics-public.digikala.com/digikala-products/f7695f5537bd17fe62ff59b92cf3574ecfaece4b_1656422164.jpg?x-oss-process=image/resize,m_lfit,h_240,w_240/quality,q_80"
+},
+default_variant_id: 28702523,
+parameters: {
+color_ids: [
+4,
+2,
+8,
+1
+]
+},
+properties: {
+is_fast_shopping: false,
+is_ship_by_seller: false,
+is_multi_warehouse: false,
+is_fake: false,
+is_ready_to_ship: true,
+has_gift: false,
+is_medical_supplement: false,
+is_electronic: false,
+is_roosta: false,
+warehouse_label: "موجود در انبار دیجی‌کالا",
+is_ad: false
+},
+warehouse_stock: 0,
+price: {
+selling_price: 57590000,
+rrp_price: 57590000,
+order_limit: 2,
+is_incredible: false,
+is_promotion: false,
+marketable_stock: 1
+},
+digiplus: {
+services: [
+"امکان ارسال فوری (شهر تهران)"
+],
+is_jet_eligible: true,
+cash_back: 0,
+is_general_location_jet_eligible: false
+},
+product_badge: {
+text: "تنها 1 عدد در انبار باقیست",
+text_color: "#d32f2f",
+icon: null,
+icon_color: null
+}
+},
+{
+id: 1960785,
+category_id: 82,
+category_title: "قطعات جانبی موبایل و تبلت",
+title_fa: "محافظ کابل مدل PCM62",
+title_en: "",
+rating: {
+rate: 84,
+count: 9445
+},
+brand: {
+title_fa: "متفرقه"
+},
+status: "marketable",
+images: {
+main: "https://dkstatics-public.digikala.com/digikala-products/113197926.jpg?x-oss-process=image/resize,m_lfit,h_240,w_240/quality,q_80"
+},
+default_variant_id: 28107969,
+parameters: {
+color_ids: [
+32,
+73,
+7,
+3,
+8,
+13,
+44,
+74,
+34,
+15,
+43,
+26,
+4,
+93,
+31,
+25,
+6,
+12,
+5,
+1,
+66,
+83,
+63,
+23,
+9,
+153,
+42,
+45,
+47,
+2,
+155,
+56,
+11,
+82,
+76,
+46,
+18,
+19,
+120,
+129,
+75
+]
+},
+properties: {
+is_fast_shopping: false,
+is_ship_by_seller: false,
+is_multi_warehouse: false,
+is_fake: false,
+is_ready_to_ship: true,
+has_gift: false,
+is_medical_supplement: false,
+is_electronic: false,
+is_roosta: false,
+warehouse_label: "موجود در انبار دیجی‌کالا",
+is_ad: false
+},
+warehouse_stock: 0,
+price: {
+selling_price: 133900,
+rrp_price: 133900,
+order_limit: 3,
+is_incredible: false,
+is_promotion: false
+},
+digiplus: {
+services: [
+"امکان ارسال فوری (شهر تهران)"
+],
+is_jet_eligible: true,
+cash_back: 0,
+is_general_location_jet_eligible: false
+},
+product_badge: {
+text: "موجود در انبار دیجی‌کالا",
+text_color: "#62666d",
+icon: "cube-badge-available-product",
+icon_color: "#0fabc6"
+}
+},
+{
+id: 3724737,
+category_id: 82,
+category_title: "قطعات جانبی موبایل و تبلت",
+title_fa: "آستین کنترل کننده انگشت مدل GL1",
+title_en: "",
+rating: {
+rate: 82,
+count: 9216
+},
+brand: {
+title_fa: "متفرقه"
+},
+status: "marketable",
+images: {
+main: "https://dkstatics-public.digikala.com/digikala-products/4ae8a7b3f4a14028f972d176440b8b4c4004a3a0_1605609091.jpg?x-oss-process=image/resize,m_lfit,h_240,w_240/quality,q_80"
+},
+default_variant_id: 27812013,
+parameters: {
+color_ids: [
+1,
+55,
+5
+]
+},
+properties: {
+is_fast_shopping: false,
+is_ship_by_seller: false,
+is_multi_warehouse: false,
+is_fake: false,
+is_ready_to_ship: true,
+has_gift: false,
+is_medical_supplement: false,
+is_electronic: false,
+is_roosta: false,
+warehouse_label: "موجود در انبار دیجی‌کالا",
+is_ad: false
+},
+warehouse_stock: 0,
+price: {
+selling_price: 91000,
+rrp_price: 91000,
+order_limit: 10,
+is_incredible: false,
+is_promotion: false
+},
+digiplus: {
+services: [
+"امکان ارسال فوری (شهر تهران)"
+],
+is_jet_eligible: true,
+cash_back: 0,
+is_general_location_jet_eligible: false
+},
+product_badge: {
+text: "موجود در انبار دیجی‌کالا",
+text_color: "#62666d",
+icon: "cube-badge-available-product",
+icon_color: "#0fabc6"
+}
+},
+{
+id: 8119459,
+category_id: 11,
+category_title: "گوشی موبایل",
+title_fa: "گوشی موبایل سامسونگ مدل Galaxy A53 5G SM-A536E/DS دو سیم کارت ظرفیت 256 گیگابایت و رم 8 گیگابایت",
+title_en: "Samsung Galaxy A53 5G SM-A536E/DS Dual SIM 256GB And 8GB RAM Mobile Phone",
+rating: {
+rate: 84,
+count: 683
+},
+brand: {
+title_fa: "سامسونگ"
+},
+status: "marketable",
+images: {
+main: "https://dkstatics-public.digikala.com/digikala-products/871b53a2236bf90e7e37337b1089c39f5c5175ff_1656422780.jpg?x-oss-process=image/resize,m_lfit,h_240,w_240/quality,q_80"
+},
+default_variant_id: 29593713,
+parameters: {
+color_ids: [
+1,
+4,
+25,
+2
+]
+},
+properties: {
+is_fast_shopping: false,
+is_ship_by_seller: false,
+is_multi_warehouse: false,
+is_fake: false,
+is_ready_to_ship: true,
+has_gift: false,
+is_medical_supplement: false,
+is_electronic: false,
+is_roosta: false,
+warehouse_label: "موجود در انبار دیجی‌کالا",
+is_ad: false
+},
+warehouse_stock: 0,
+price: {
+selling_price: 104990000,
+rrp_price: 104990000,
+order_limit: 1,
+is_incredible: false,
+is_promotion: false
+},
+digiplus: {
+services: [
+"امکان ارسال فوری (شهر تهران)"
+],
+is_jet_eligible: true,
+cash_back: 0,
+is_general_location_jet_eligible: false
+},
+product_badge: {
+text: "موجود در انبار دیجی‌کالا",
+text_color: "#62666d",
+icon: "cube-badge-available-product",
+icon_color: "#0fabc6"
+}
+},
+{
+id: 86862,
+category_id: 81,
+category_title: "پایه نگهدارنده گوشی و تبلت",
+title_fa: "پایه نگهدارنده گوشی و تبلت مدل OK Stand",
+title_en: "OK Stand Mobile And Tablet Holder",
+rating: {
+rate: 82,
+count: 56113
+},
+brand: {
+title_fa: "متفرقه"
+},
+status: "marketable",
+images: {
+main: "https://dkstatics-public.digikala.com/digikala-products/40681.jpg?x-oss-process=image/resize,m_lfit,h_240,w_240/quality,q_80"
+},
+default_variant_id: 18427599,
+parameters: {
+color_ids: [
+1,
+4,
+16,
+3,
+7,
+5,
+17,
+39,
+53,
+113,
+97,
+154,
+74,
+6,
+44,
+73,
+19,
+151,
+43,
+155,
+141,
+82,
+138,
+25,
+18,
+24,
+8,
+56,
+67,
+2,
+79,
+45,
+47,
+23
+]
+},
+properties: {
+is_fast_shopping: false,
+is_ship_by_seller: false,
+is_multi_warehouse: false,
+is_fake: false,
+is_ready_to_ship: true,
+has_gift: false,
+is_medical_supplement: false,
+is_electronic: false,
+is_roosta: false,
+warehouse_label: "موجود در انبار دیجی‌کالا",
+is_ad: false
+},
+warehouse_stock: 0,
+price: {
+selling_price: 80000,
+rrp_price: 80000,
+order_limit: 30,
+is_incredible: false,
+is_promotion: false
+},
+digiplus: {
+services: [
+"امکان ارسال فوری (شهر تهران)"
+],
+is_jet_eligible: true,
+cash_back: 0,
+is_general_location_jet_eligible: false
+},
+product_badge: {
+text: "موجود در انبار دیجی‌کالا",
+text_color: "#62666d",
+icon: "cube-badge-available-product",
+icon_color: "#0fabc6"
+}
+},
+{
+id: 8561715,
+category_id: 11,
+category_title: "گوشی موبایل",
+title_fa: "گوشی موبایل سامسونگ مدل Galaxy A03 SM-A035F/DS دو سیم‌ کارت ظرفیت 32 گیگابایت و رم 3 گیگابایت ",
+title_en: "Samsung Galaxy A03 SM-A035F/DS Dual SIM 32GB And 3GB RAM Mobile Phone",
+rating: {
+rate: 84,
+count: 122
+},
+brand: {
+title_fa: "سامسونگ"
+},
+status: "marketable",
+images: {
+main: "https://dkstatics-public.digikala.com/digikala-products/956ec4946e97ebcf595dc7a43d3aec893d9a124b_1656483627.jpg?x-oss-process=image/resize,m_lfit,h_240,w_240/quality,q_80"
+},
+default_variant_id: 31007586,
+parameters: {
+color_ids: [
+3,
+1,
+4
+]
+},
+properties: {
+is_fast_shopping: false,
+is_ship_by_seller: false,
+is_multi_warehouse: false,
+is_fake: false,
+is_ready_to_ship: true,
+has_gift: false,
+is_medical_supplement: false,
+is_electronic: false,
+is_roosta: false,
+warehouse_label: "موجود در انبار دیجی‌کالا",
+is_ad: false
+},
+warehouse_stock: 0,
+price: {
+selling_price: 31500000,
+rrp_price: 31500000,
+order_limit: 1,
+is_incredible: false,
+is_promotion: false,
+marketable_stock: 1
+},
+digiplus: {
+services: [
+"امکان ارسال فوری (شهر تهران)"
+],
+is_jet_eligible: true,
+cash_back: 0,
+is_general_location_jet_eligible: false
+},
+product_badge: {
+text: "تنها 1 عدد در انبار باقیست",
+text_color: "#d32f2f",
+icon: null,
+icon_color: null
+}
+},
+{
+id: 8414490,
+category_id: 11,
+category_title: "گوشی موبایل",
+title_fa: "گوشی موبایل سامسونگ مدل Galaxy A23 SM-A235 دو سیم کارت ظرفیت 128 گیگابایت و رم 4 گیگابایت ",
+title_en: "Samsung Galaxy A23 SM-A235 Dual SIM 128GB And 4GB RAM Mobile Phone",
+rating: {
+rate: 88,
+count: 174
+},
+brand: {
+title_fa: "سامسونگ"
+},
+status: "marketable",
+images: {
+main: "https://dkstatics-public.digikala.com/digikala-products/360d6643c1b7bd28ed208426792b395d85e18589_1651391693.jpg?x-oss-process=image/resize,m_lfit,h_240,w_240/quality,q_80"
+},
+default_variant_id: 30079205,
+parameters: {
+color_ids: [
+4,
+1,
+25,
+2
+]
+},
+properties: {
+is_fast_shopping: false,
+is_ship_by_seller: false,
+is_multi_warehouse: false,
+is_fake: false,
+is_ready_to_ship: true,
+has_gift: false,
+is_medical_supplement: false,
+is_electronic: false,
+is_roosta: false,
+warehouse_label: "موجود در انبار دیجی‌کالا",
+is_ad: false
+},
+warehouse_stock: 0,
+price: {
+selling_price: 49490000,
+rrp_price: 49490000,
+order_limit: 2,
+is_incredible: false,
+is_promotion: false
+},
+digiplus: {
+services: [
+"امکان ارسال فوری (شهر تهران)"
+],
+is_jet_eligible: true,
+cash_back: 0,
+is_general_location_jet_eligible: false
+},
+product_badge: {
+text: "موجود در انبار دیجی‌کالا",
+text_color: "#62666d",
+icon: "cube-badge-available-product",
+icon_color: "#0fabc6"
+}
+},
+{
+id: 924643,
+category_id: 80,
+category_title: "کابل شارژ و مبدل",
+title_fa: "مبدل USB به USB-C مدل OTG PLUS USB",
+title_en: "",
+rating: {
+rate: 72,
+count: 10865
+},
+brand: {
+title_fa: "متفرقه"
+},
+status: "marketable",
+images: {
+main: "https://dkstatics-public.digikala.com/digikala-products/4351107.jpg?x-oss-process=image/resize,m_lfit,h_240,w_240/quality,q_80"
+},
+default_variant_id: 12295428,
+parameters: {
+color_ids: [
+1,
+3,
+56,
+2,
+6,
+17,
+7,
+12,
+15
+]
+},
+properties: {
+is_fast_shopping: false,
+is_ship_by_seller: true,
+is_multi_warehouse: false,
+is_fake: false,
+is_ready_to_ship: true,
+has_gift: false,
+is_medical_supplement: false,
+is_electronic: false,
+is_roosta: false,
+warehouse_label: "موجود در انبار فروشنده و دیجی‌کالا",
+is_ad: false
+},
+warehouse_stock: 0,
+price: {
+selling_price: 120000,
+rrp_price: 120000,
+order_limit: 1,
+is_incredible: false,
+is_promotion: false
+},
+digiplus: {
+services: [
+"امکان ارسال فوری (شهر تهران)"
+],
+is_jet_eligible: true,
+cash_back: 0,
+is_general_location_jet_eligible: false
+},
+product_badge: {
+text: "ارسال توسط فروشنده",
+text_color: "#62666d",
+icon: "cube-badge-delivery-ship-by-seller",
+icon_color: "#d86b00"
+}
+},
+{
+id: 7845430,
+category_id: 11,
+category_title: "گوشی موبایل",
+title_fa: "گوشی موبایل شیائومی مدل Redmi Note 11 دو سیم‌ کارت ظرفیت 128 گیگابایت و رم 6 گیگابایت",
+title_en: "Xiaomi Redmi Note 11 Dual SIM 128GB And 6GB RAM Mobile Phone",
+rating: {
+rate: 86,
+count: 1231
+},
+brand: {
+title_fa: "شیائومی"
+},
+status: "marketable",
+images: {
+main: "https://dkstatics-public.digikala.com/digikala-products/e477016feaff5a6e6cf930517134eb3888c887ef_1656404674.jpg?x-oss-process=image/resize,m_lfit,h_240,w_240/quality,q_80"
+},
+default_variant_id: 28837233,
+parameters: {
+color_ids: [
+11,
+4,
+1,
+43
+]
+},
+properties: {
+is_fast_shopping: false,
+is_ship_by_seller: false,
+is_multi_warehouse: false,
+is_fake: false,
+is_ready_to_ship: true,
+has_gift: false,
+is_medical_supplement: false,
+is_electronic: false,
+is_roosta: false,
+warehouse_label: "موجود در انبار دیجی‌کالا",
+is_ad: false
+},
+warehouse_stock: 0,
+price: {
+selling_price: 52290000,
+rrp_price: 52290000,
+order_limit: 1,
+is_incredible: false,
+is_promotion: false
+},
+digiplus: {
+services: [
+"امکان ارسال فوری (شهر تهران)"
+],
+is_jet_eligible: true,
+cash_back: 0,
+is_general_location_jet_eligible: false
+},
+product_badge: {
+text: "موجود در انبار دیجی‌کالا",
+text_color: "#62666d",
+icon: "cube-badge-available-product",
+icon_color: "#0fabc6"
+}
+},
+{
+id: 3402894,
+category_id: 84,
+category_title: "قلم لمسی (Stylus)",
+title_fa: "قلم لمسی مدل 001",
+title_en: "",
+rating: {
+rate: 80,
+count: 5366
+},
+brand: {
+title_fa: "متفرقه"
+},
+status: "marketable",
+images: {
+main: "https://dkstatics-public.digikala.com/digikala-products/78bf1dbb443d7c61a3b2ec083a467d5bdaadda78_1601750123.jpg?x-oss-process=image/resize,m_lfit,h_240,w_240/quality,q_80"
+},
+default_variant_id: 16715758,
+parameters: {
+color_ids: [
+3,
+12,
+103,
+52,
+71,
+4,
+6,
+7,
+15,
+46,
+63,
+153,
+44,
+74,
+66
+]
+},
+properties: {
+is_fast_shopping: false,
+is_ship_by_seller: false,
+is_multi_warehouse: false,
+is_fake: false,
+is_ready_to_ship: false,
+has_gift: false,
+is_medical_supplement: false,
+is_electronic: false,
+is_roosta: false,
+is_ad: false
+},
+warehouse_stock: 0,
+price: {
+selling_price: 95000,
+rrp_price: 95000,
+order_limit: 30,
+is_incredible: false,
+is_promotion: false
+},
+digiplus: {
+services: [ ],
+is_jet_eligible: false,
+cash_back: 0,
+is_general_location_jet_eligible: false
+},
+product_badge: [ ]
+},
+{
+id: 6187226,
+category_id: 82,
+category_title: "قطعات جانبی موبایل و تبلت",
+title_fa: "آستین کنترل کننده انگشت مدل GL1 بسته 10 عددی",
+title_en: "",
+rating: {
+rate: 84,
+count: 933
+},
+brand: {
+title_fa: "متفرقه"
+},
+status: "marketable",
+images: {
+main: "https://dkstatics-public.digikala.com/digikala-products/b917e5ae6c098f0cd68316be9d1c8348afa7c6ff_1629636625.jpg?x-oss-process=image/resize,m_lfit,h_240,w_240/quality,q_80"
+},
+default_variant_id: 30732474,
+parameters: {
+color_ids: [
+1,
+55,
+5,
+39
+]
+},
+properties: {
+is_fast_shopping: false,
+is_ship_by_seller: true,
+is_multi_warehouse: false,
+is_fake: false,
+is_ready_to_ship: true,
+has_gift: false,
+is_medical_supplement: false,
+is_electronic: false,
+is_roosta: false,
+warehouse_label: "موجود در انبار فروشنده و دیجی‌کالا",
+is_ad: false
+},
+warehouse_stock: 0,
+price: {
+selling_price: 228500,
+rrp_price: 228500,
+order_limit: 5,
+is_incredible: false,
+is_promotion: false
+},
+digiplus: {
+services: [
+"امکان ارسال فوری (شهر تهران)"
+],
+is_jet_eligible: true,
+cash_back: 0,
+is_general_location_jet_eligible: false
+},
+product_badge: {
+text: "ارسال توسط فروشنده",
+text_color: "#62666d",
+icon: "cube-badge-delivery-ship-by-seller",
+icon_color: "#d86b00"
+}
+},
+{
+id: 543587,
+category_id: 81,
+category_title: "پایه نگهدارنده گوشی و تبلت",
+title_fa: "پایه نگهدارنده گوشی موبایل مدل M-360D",
+title_en: "M-360D Magnetic Car Mount Mobile Phone car Holder",
+rating: {
+rate: 74,
+count: 5621
+},
+brand: {
+title_fa: "متفرقه"
+},
+status: "marketable",
+images: {
+main: "https://dkstatics-public.digikala.com/digikala-products/1351507.jpg?x-oss-process=image/resize,m_lfit,h_240,w_240/quality,q_80"
+},
+default_variant_id: 18091970,
+parameters: {
+color_ids: [
+15,
+12,
+3,
+7,
+1
+]
+},
+properties: {
+is_fast_shopping: false,
+is_ship_by_seller: false,
+is_multi_warehouse: false,
+is_fake: false,
+is_ready_to_ship: true,
+has_gift: false,
+is_medical_supplement: false,
+is_electronic: false,
+is_roosta: false,
+warehouse_label: "موجود در انبار دیجی‌کالا",
+is_ad: false
+},
+warehouse_stock: 0,
+price: {
+selling_price: 414000,
+rrp_price: 414000,
+order_limit: 30,
+is_incredible: false,
+is_promotion: false
+},
+digiplus: {
+services: [
+"امکان ارسال فوری (شهر تهران)"
+],
+is_jet_eligible: true,
+cash_back: 0,
+is_general_location_jet_eligible: false
+},
+product_badge: {
+text: "موجود در انبار دیجی‌کالا",
+text_color: "#62666d",
+icon: "cube-badge-available-product",
+icon_color: "#0fabc6"
+}
+},
+{
+id: 6361920,
+category_id: 11,
+category_title: "گوشی موبایل",
+title_fa: "گوشی موبایل سامسونگ مدل Galaxy A03s SM-A037F/DS دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت",
+title_en: "Samsung Galaxy A03s SM-A037F/DS Dual SIM 64GB And 4GB RAM Mobile Phone",
+rating: {
+rate: 84,
+count: 1206
+},
+brand: {
+title_fa: "سامسونگ"
+},
+status: "marketable",
+images: {
+main: "https://dkstatics-public.digikala.com/digikala-products/8d547ea853f2d8c39d689e646d1a805cbe33b451_1656431935.jpg?x-oss-process=image/resize,m_lfit,h_240,w_240/quality,q_80"
+},
+default_variant_id: 31116903,
+parameters: {
+color_ids: [
+1,
+4,
+2
+]
+},
+properties: {
+is_fast_shopping: false,
+is_ship_by_seller: false,
+is_multi_warehouse: false,
+is_fake: false,
+is_ready_to_ship: true,
+has_gift: false,
+is_medical_supplement: false,
+is_electronic: false,
+is_roosta: false,
+warehouse_label: "موجود در انبار دیجی‌کالا",
+is_ad: false
+},
+warehouse_stock: 0,
+price: {
+selling_price: 35900000,
+rrp_price: 35900000,
+order_limit: 1,
+is_incredible: false,
+is_promotion: false,
+marketable_stock: 1
+},
+digiplus: {
+services: [
+"امکان ارسال فوری (شهر تهران)"
+],
+is_jet_eligible: true,
+cash_back: 0,
+is_general_location_jet_eligible: false
+},
+product_badge: {
+text: "تنها 1 عدد در انبار باقیست",
+text_color: "#d32f2f",
+icon: null,
+icon_color: null
+}
+},
+{
+id: 3352714,
+category_id: 82,
+category_title: "قطعات جانبی موبایل و تبلت",
+title_fa: "محافظ کابل و هندزفری مدل CL",
+title_en: "",
+rating: {
+rate: 82,
+count: 17605
+},
+brand: {
+title_fa: "متفرقه"
+},
+status: "marketable",
+images: {
+main: "https://dkstatics-public.digikala.com/digikala-products/ded0c584935cbbd0ccfd67a231e2a0f7765663c7_1599403408.jpg?x-oss-process=image/resize,m_lfit,h_240,w_240/quality,q_80"
+},
+default_variant_id: 25196439,
+parameters: {
+color_ids: [
+85,
+40,
+17,
+14,
+5,
+7,
+43,
+32,
+73,
+44,
+45,
+81,
+16,
+47,
+48,
+75,
+127,
+67,
+74,
+24,
+2,
+18,
+8,
+1,
+3,
+6,
+9,
+82,
+93,
+42,
+50,
+25,
+56,
+11,
+4,
+152,
+162,
+13
+]
+},
+properties: {
+is_fast_shopping: false,
+is_ship_by_seller: false,
+is_multi_warehouse: false,
+is_fake: false,
+is_ready_to_ship: true,
+has_gift: false,
+is_medical_supplement: false,
+is_electronic: false,
+is_roosta: false,
+warehouse_label: "موجود در انبار دیجی‌کالا",
+is_ad: false
+},
+warehouse_stock: 0,
+price: {
+selling_price: 108000,
+rrp_price: 108000,
+order_limit: 3,
+is_incredible: false,
+is_promotion: false
+},
+digiplus: {
+services: [
+"امکان ارسال فوری (شهر تهران)"
+],
+is_jet_eligible: true,
+cash_back: 0,
+is_general_location_jet_eligible: false
+},
+product_badge: {
+text: "موجود در انبار دیجی‌کالا",
+text_color: "#62666d",
+icon: "cube-badge-available-product",
+icon_color: "#0fabc6"
+}
+}
+],
+title: "پرفروش‌ترین کالاها",
+url: {
+url: "https://www.digikala.com/search/category-mobile/?sortby=7",
+page: "category_search_page",
+params: {
+category_id: 1
+},
+queries: {
+sort: 7
+}
+}
+}
+},
+{
+type: "small_separator",
+data: [ ]
+},
+{
+type: "vertical_products",
+data: {
+products: [
+{
+id: 5466859,
+category_id: 77,
+category_title: "کیف و کاور گوشی",
+title_fa: "کاور کینگ کونگ مدل GHB01 مناسب برای گوشی موبایل سامسونگ Galaxy M30S",
+title_en: "",
+rating: {
+rate: 0,
+count: 0
+},
+brand: {
+title_fa: "کینگ کونگ"
+},
+status: "marketable",
+images: {
+main: "https://dkstatics-public.digikala.com/digikala-products/d3ba02fff86e68000dc1162f9ecf245c215ac867_1623688147.jpg?x-oss-process=image/resize,m_lfit,h_240,w_240/quality,q_80"
+},
+default_variant_id: 17520691,
+parameters: {
+color_ids: [
+1,
+3,
+34
+]
+},
+properties: {
+is_fast_shopping: false,
+is_ship_by_seller: false,
+is_multi_warehouse: false,
+is_fake: false,
+is_ready_to_ship: false,
+has_gift: false,
+is_medical_supplement: false,
+is_electronic: false,
+is_roosta: false,
+is_ad: false
+},
+warehouse_stock: 1,
+price: {
+selling_price: 990000,
+rrp_price: 1490000,
+order_limit: 3,
+is_incredible: false,
+is_promotion: true,
+badge: {
+title: "فروش ویژه",
+color: "#E6123D",
+icon: null
+},
+is_digiplus_promotion: false,
+is_digiplus_early_access: false,
+is_plus_promotion: false,
+is_plus_early_access: false,
+is_application_incredible: false,
+is_lightening_deal: false
+},
+digiplus: {
+services: [ ],
+is_jet_eligible: false,
+cash_back: 0,
+is_general_location_jet_eligible: false
+},
+product_badge: [ ]
+},
+{
+id: 5230122,
+category_id: 76,
+category_title: "محافظ صفحه نمایش گوشی",
+title_fa: "محافظ پشت گوشی کینگ کونگ مدل BTP مناسب برای گوشی موبایل هوآوی Y9A بسته دو عددی",
+title_en: "",
+rating: {
+rate: 0,
+count: 0
+},
+brand: {
+title_fa: "کینگ کونگ"
+},
+status: "marketable",
+images: {
+main: "https://dkstatics-public.digikala.com/digikala-products/54dcd798e30e228d2c6cebc3514dd049ea5f3af7_1621523624.jpg?x-oss-process=image/resize,m_lfit,h_240,w_240/quality,q_80"
+},
+default_variant_id: 16976864,
+parameters: {
+color_ids: [
+37
+]
+},
+properties: {
+is_fast_shopping: false,
+is_ship_by_seller: false,
+is_multi_warehouse: false,
+is_fake: false,
+is_ready_to_ship: false,
+has_gift: false,
+is_medical_supplement: false,
+is_electronic: false,
+is_roosta: false,
+is_ad: false
+},
+warehouse_stock: 0,
+price: {
+selling_price: 585000,
+rrp_price: 650000,
+order_limit: 2,
+is_incredible: false,
+is_promotion: true,
+badge: {
+title: "فروش ویژه",
+color: "#E6123D",
+icon: null
+},
+is_digiplus_promotion: false,
+is_digiplus_early_access: false,
+is_plus_promotion: false,
+is_plus_early_access: false,
+is_application_incredible: false,
+is_lightening_deal: false
+},
+digiplus: {
+services: [ ],
+is_jet_eligible: false,
+cash_back: 0,
+is_general_location_jet_eligible: false
+},
+product_badge: [ ]
+},
+{
+id: 5810472,
+category_id: 76,
+category_title: "محافظ صفحه نمایش گوشی",
+title_fa: " محافظ صفحه نمایش سرامیکی اکو پروتکت مدل ECG مناسب برای گوشی موبایل آنر 9X",
+title_en: " Ecco Protect ECG Ceramics Screen Protector For Honor 9X",
+rating: {
+rate: 0,
+count: 0
+},
+brand: {
+title_fa: "اکو پروتکت"
+},
+status: "marketable",
+images: {
+main: "https://dkstatics-public.digikala.com/digikala-products/30c20a7842517edf4a04a84dae58efc343227bbc_1626701789.jpg?x-oss-process=image/resize,m_lfit,h_240,w_240/quality,q_80"
+},
+default_variant_id: 30056753,
+parameters: {
+color_ids: [
+1
+]
+},
+properties: {
+is_fast_shopping: false,
+is_ship_by_seller: false,
+is_multi_warehouse: false,
+is_fake: false,
+is_ready_to_ship: false,
+has_gift: false,
+is_medical_supplement: false,
+is_electronic: false,
+is_roosta: false,
+is_ad: false
+},
+warehouse_stock: 0,
+price: {
+selling_price: 350000,
+rrp_price: 377000,
+order_limit: 3,
+is_incredible: false,
+is_promotion: true,
+badge: {
+title: "فروش ویژه",
+color: "#E6123D",
+icon: null
+},
+is_digiplus_promotion: false,
+is_digiplus_early_access: false,
+is_plus_promotion: false,
+is_plus_early_access: false,
+is_application_incredible: false,
+is_lightening_deal: false
+},
+digiplus: {
+services: [ ],
+is_jet_eligible: false,
+cash_back: 0,
+is_general_location_jet_eligible: false
+},
+product_badge: [ ]
+},
+{
+id: 5898729,
+category_id: 76,
+category_title: "محافظ صفحه نمایش گوشی",
+title_fa: "محافظ پشت گوشی کوآلا مدل Fade مناسب برای گوشی موبایل سامسونگ Galaxy A12",
+title_en: "",
+rating: {
+rate: 0,
+count: 0
+},
+brand: {
+title_fa: "متفرقه"
+},
+status: "marketable",
+images: {
+main: "https://dkstatics-public.digikala.com/digikala-products/68f49d76473aa9ece529feb34711470d7dc90fb8_1627427891.jpg?x-oss-process=image/resize,m_lfit,h_240,w_240/quality,q_80"
+},
+default_variant_id: 19161528,
+parameters: {
+color_ids: [
+1,
+35,
+37
+]
+},
+properties: {
+is_fast_shopping: false,
+is_ship_by_seller: false,
+is_multi_warehouse: false,
+is_fake: false,
+is_ready_to_ship: false,
+has_gift: false,
+is_medical_supplement: false,
+is_electronic: false,
+is_roosta: false,
+is_ad: false
+},
+warehouse_stock: 0,
+price: {
+selling_price: 142000,
+rrp_price: 350000,
+order_limit: 4,
+is_incredible: false,
+is_promotion: true,
+badge: {
+title: "فروش ویژه",
+color: "#E6123D",
+icon: null
+},
+is_digiplus_promotion: false,
+is_digiplus_early_access: false,
+is_plus_promotion: false,
+is_plus_early_access: false,
+is_application_incredible: false,
+is_lightening_deal: false
+},
+digiplus: {
+services: [ ],
+is_jet_eligible: false,
+cash_back: 0,
+is_general_location_jet_eligible: false
+},
+product_badge: [ ]
+},
+{
+id: 5899944,
+category_id: 76,
+category_title: "محافظ صفحه نمایش گوشی",
+title_fa: "محافظ صفحه نمایش سرامیکی مات کوآلا مدل Fade مناسب برای گوشی موبایل سامسونگ Galaxy A30/ m31",
+title_en: "",
+rating: {
+rate: 60,
+count: 1
+},
+brand: {
+title_fa: "متفرقه"
+},
+status: "marketable",
+images: {
+main: "https://dkstatics-public.digikala.com/digikala-products/448089a1877a980d4a63975e8c2aeeb95a86dcfc_1627436968.jpg?x-oss-process=image/resize,m_lfit,h_240,w_240/quality,q_80"
+},
+default_variant_id: 30812324,
+parameters: {
+color_ids: [
+55,
+1,
+51,
+56
+]
+},
+properties: {
+is_fast_shopping: false,
+is_ship_by_seller: false,
+is_multi_warehouse: false,
+is_fake: false,
+is_ready_to_ship: false,
+has_gift: false,
+is_medical_supplement: false,
+is_electronic: false,
+is_roosta: false,
+is_ad: false
+},
+warehouse_stock: 0,
+price: {
+selling_price: 119500,
+rrp_price: 180000,
+order_limit: 5,
+is_incredible: false,
+is_promotion: true,
+badge: {
+title: "فروش ویژه",
+color: "#E6123D",
+icon: null
+},
+is_digiplus_promotion: false,
+is_digiplus_early_access: false,
+is_plus_promotion: false,
+is_plus_early_access: false,
+is_application_incredible: false,
+is_lightening_deal: false
+},
+digiplus: {
+services: [ ],
+is_jet_eligible: false,
+cash_back: 0,
+is_general_location_jet_eligible: false
+},
+product_badge: [ ]
+},
+{
+id: 6859534,
+category_id: 76,
+category_title: "محافظ صفحه نمایش گوشی",
+title_fa: "محافظ صفحه نمایش نانو هورس مدل TPU01 مناسب برای گوشی موبایل سامسونگ Galaxy S21",
+title_en: "Horse TPU01 Nano Screen Protector For Samsung Galaxy S21",
+rating: {
+rate: 0,
+count: 0
+},
+brand: {
+title_fa: "هورس"
+},
+status: "marketable",
+images: {
+main: "https://dkstatics-public.digikala.com/digikala-products/cb6f63bc793593d88913ee9b03be5742ef7b996b_1635311507.jpg?x-oss-process=image/resize,m_lfit,h_240,w_240/quality,q_80"
+},
+default_variant_id: 23118249,
+parameters: {
+color_ids: [
+37
+]
+},
+properties: {
+is_fast_shopping: false,
+is_ship_by_seller: false,
+is_multi_warehouse: false,
+is_fake: false,
+is_ready_to_ship: false,
+has_gift: false,
+is_medical_supplement: false,
+is_electronic: false,
+is_roosta: false,
+is_ad: false
+},
+warehouse_stock: 0,
+price: {
+selling_price: 281000,
+rrp_price: 1340000,
+order_limit: 2,
+is_incredible: false,
+is_promotion: true,
+badge: {
+title: "فروش ویژه",
+color: "#E6123D",
+icon: null
+},
+is_digiplus_promotion: false,
+is_digiplus_early_access: false,
+is_plus_promotion: false,
+is_plus_early_access: false,
+is_application_incredible: false,
+is_lightening_deal: false
+},
+digiplus: {
+services: [ ],
+is_jet_eligible: false,
+cash_back: 0,
+is_general_location_jet_eligible: false
+},
+product_badge: [ ]
+},
+{
+id: 6903734,
+category_id: 76,
+category_title: "محافظ صفحه نمایش گوشی",
+title_fa: "محافظ پشت گوشی نانو هورس مدل TPU-BH مناسب برای گوشی موبایل شیائومی Redmi K40",
+title_en: "Horse TPU-BH Nano Back Protector For Xiaomi Redmi K40",
+rating: {
+rate: 0,
+count: 0
+},
+brand: {
+title_fa: "هورس"
+},
+status: "marketable",
+images: {
+main: "https://dkstatics-public.digikala.com/digikala-products/e776f97fea57c6fabb368a6d6573765827022298_1635754739.jpg?x-oss-process=image/resize,m_lfit,h_240,w_240/quality,q_80"
+},
+default_variant_id: 23359984,
+parameters: {
+color_ids: [
+37
+]
+},
+properties: {
+is_fast_shopping: false,
+is_ship_by_seller: false,
+is_multi_warehouse: false,
+is_fake: false,
+is_ready_to_ship: false,
+has_gift: false,
+is_medical_supplement: false,
+is_electronic: false,
+is_roosta: false,
+is_ad: false
+},
+warehouse_stock: 0,
+price: {
+selling_price: 281000,
+rrp_price: 1340000,
+order_limit: 2,
+is_incredible: false,
+is_promotion: true,
+badge: {
+title: "فروش ویژه",
+color: "#E6123D",
+icon: null
+},
+is_digiplus_promotion: false,
+is_digiplus_early_access: false,
+is_plus_promotion: false,
+is_plus_early_access: false,
+is_application_incredible: false,
+is_lightening_deal: false
+},
+digiplus: {
+services: [ ],
+is_jet_eligible: false,
+cash_back: 0,
+is_general_location_jet_eligible: false
+},
+product_badge: [ ]
+},
+{
+id: 6897244,
+category_id: 76,
+category_title: "محافظ صفحه نمایش گوشی",
+title_fa: "محافظ پشت گوشی نانو هورس مدل TPUB01 مناسب برای گوشی موبایل هوآوی Y8s",
+title_en: "Horse TPUB01 Nano Back Protector For Huawei Y8s",
+rating: {
+rate: 0,
+count: 0
+},
+brand: {
+title_fa: "هورس"
+},
+status: "marketable",
+images: {
+main: "https://dkstatics-public.digikala.com/digikala-products/6468ecd1773b964006f0be548a564de6306c9b78_1635684520.jpg?x-oss-process=image/resize,m_lfit,h_240,w_240/quality,q_80"
+},
+default_variant_id: 23350858,
+parameters: {
+color_ids: [
+37
+]
+},
+properties: {
+is_fast_shopping: false,
+is_ship_by_seller: false,
+is_multi_warehouse: false,
+is_fake: false,
+is_ready_to_ship: false,
+has_gift: false,
+is_medical_supplement: false,
+is_electronic: false,
+is_roosta: false,
+is_ad: false
+},
+warehouse_stock: 0,
+price: {
+selling_price: 281000,
+rrp_price: 391000,
+order_limit: 2,
+is_incredible: false,
+is_promotion: true,
+badge: {
+title: "فروش ویژه",
+color: "#E6123D",
+icon: null
+},
+is_digiplus_promotion: false,
+is_digiplus_early_access: false,
+is_plus_promotion: false,
+is_plus_early_access: false,
+is_application_incredible: false,
+is_lightening_deal: false
+},
+digiplus: {
+services: [ ],
+is_jet_eligible: false,
+cash_back: 0,
+is_general_location_jet_eligible: false
+},
+product_badge: [ ]
+},
+{
+id: 6575903,
+category_id: 76,
+category_title: "محافظ صفحه نمایش گوشی",
+title_fa: "محافظ صفحه نمایش هورس مدل TPU01 مناسب برای گوشی موبایل سامسونگ Galaxy M52 5G",
+title_en: " Horse TPU01 Screen Protector For Samsung Galaxy M52 5G",
+rating: {
+rate: 50,
+count: 2
+},
+brand: {
+title_fa: "هورس"
+},
+status: "marketable",
+images: {
+main: "https://dkstatics-public.digikala.com/digikala-products/c950123e340af4cc773da26ccd50c21b2eac5b0a_1632820336.jpg?x-oss-process=image/resize,m_lfit,h_240,w_240/quality,q_80"
+},
+default_variant_id: 22170263,
+parameters: {
+color_ids: [
+37
+]
+},
+properties: {
+is_fast_shopping: false,
+is_ship_by_seller: false,
+is_multi_warehouse: false,
+is_fake: false,
+is_ready_to_ship: false,
+has_gift: false,
+is_medical_supplement: false,
+is_electronic: false,
+is_roosta: false,
+is_ad: false
+},
+warehouse_stock: 0,
+price: {
+selling_price: 281000,
+rrp_price: 1340000,
+order_limit: 2,
+is_incredible: false,
+is_promotion: true,
+badge: {
+title: "فروش ویژه",
+color: "#E6123D",
+icon: null
+},
+is_digiplus_promotion: false,
+is_digiplus_early_access: false,
+is_plus_promotion: false,
+is_plus_early_access: false,
+is_application_incredible: false,
+is_lightening_deal: false
+},
+digiplus: {
+services: [ ],
+is_jet_eligible: false,
+cash_back: 0,
+is_general_location_jet_eligible: false
+},
+product_badge: [ ]
+},
+{
+id: 6370607,
+category_id: 76,
+category_title: "محافظ صفحه نمایش گوشی",
+title_fa: " محافظ صفحه نمایش نانو ژینوس مدل NPX مناسب برای گوشی موبایل شیائومی Redmi 10 Prime",
+title_en: "Xinus NPX Nano Screen Protector For Xiaomi Redmi 10 Prime",
+rating: {
+rate: 0,
+count: 0
+},
+brand: {
+title_fa: "ژینوس"
+},
+status: "marketable",
+images: {
+main: "https://dkstatics-public.digikala.com/digikala-products/5b0b1f46ac93a07dd8d6ed0a7dc8763d86748f80_1631087730.jpg?x-oss-process=image/resize,m_lfit,h_240,w_240/quality,q_80"
+},
+default_variant_id: 21321340,
+parameters: {
+color_ids: [
+37
+]
+},
+properties: {
+is_fast_shopping: false,
+is_ship_by_seller: false,
+is_multi_warehouse: false,
+is_fake: false,
+is_ready_to_ship: false,
+has_gift: false,
+is_medical_supplement: false,
+is_electronic: false,
+is_roosta: false,
+is_ad: false
+},
+warehouse_stock: 0,
+price: {
+selling_price: 204000,
+rrp_price: 1470000,
+order_limit: 2,
+is_incredible: false,
+is_promotion: true,
+badge: {
+title: "فروش ویژه",
+color: "#E6123D",
+icon: null
+},
+is_digiplus_promotion: false,
+is_digiplus_early_access: false,
+is_plus_promotion: false,
+is_plus_early_access: false,
+is_application_incredible: false,
+is_lightening_deal: false
+},
+digiplus: {
+services: [ ],
+is_jet_eligible: false,
+cash_back: 0,
+is_general_location_jet_eligible: false
+},
+product_badge: [ ]
+},
+{
+id: 6368413,
+category_id: 76,
+category_title: "محافظ صفحه نمایش گوشی",
+title_fa: " محافظ پشت گوشی نانو ژینوس مدل NPX مناسب برای گوشی موبایل شیائومی Redmi 10",
+title_en: " Xinus NPX Nano Back Protector For Xiaomi Redmi 10",
+rating: {
+rate: 0,
+count: 0
+},
+brand: {
+title_fa: "ژینوس"
+},
+status: "marketable",
+images: {
+main: "https://dkstatics-public.digikala.com/digikala-products/19c72cb1bc3ae67f22ed1bb7d23f425ba0301196_1631078415.jpg?x-oss-process=image/resize,m_lfit,h_240,w_240/quality,q_80"
+},
+default_variant_id: 21215563,
+parameters: {
+color_ids: [
+37
+]
+},
+properties: {
+is_fast_shopping: false,
+is_ship_by_seller: false,
+is_multi_warehouse: false,
+is_fake: false,
+is_ready_to_ship: false,
+has_gift: false,
+is_medical_supplement: false,
+is_electronic: false,
+is_roosta: false,
+is_ad: false
+},
+warehouse_stock: 0,
+price: {
+selling_price: 204000,
+rrp_price: 960000,
+order_limit: 2,
+is_incredible: false,
+is_promotion: true,
+badge: {
+title: "فروش ویژه",
+color: "#E6123D",
+icon: null
+},
+is_digiplus_promotion: false,
+is_digiplus_early_access: false,
+is_plus_promotion: false,
+is_plus_early_access: false,
+is_application_incredible: false,
+is_lightening_deal: false
+},
+digiplus: {
+services: [ ],
+is_jet_eligible: false,
+cash_back: 0,
+is_general_location_jet_eligible: false
+},
+product_badge: [ ]
+},
+{
+id: 5988631,
+category_id: 76,
+category_title: "محافظ صفحه نمایش گوشی",
+title_fa: "محافظ پشت گوشی نانو هورس مدل TPUB01 مناسب برای گوشی موبایل هوآوی Y8p",
+title_en: "Horse TPUB01 Nano Back Protector For Huawei Y8p",
+rating: {
+rate: 0,
+count: 0
+},
+brand: {
+title_fa: "هورس"
+},
+status: "marketable",
+images: {
+main: "https://dkstatics-public.digikala.com/digikala-products/213f544be0803b773de7dc262dbf45d41722d8c0_1627989725.jpg?x-oss-process=image/resize,m_lfit,h_240,w_240/quality,q_80"
+},
+default_variant_id: 19784015,
+parameters: {
+color_ids: [
+37
+]
+},
+properties: {
+is_fast_shopping: false,
+is_ship_by_seller: false,
+is_multi_warehouse: false,
+is_fake: false,
+is_ready_to_ship: false,
+has_gift: false,
+is_medical_supplement: false,
+is_electronic: false,
+is_roosta: false,
+is_ad: false
+},
+warehouse_stock: 0,
+price: {
+selling_price: 281000,
+rrp_price: 391000,
+order_limit: 2,
+is_incredible: false,
+is_promotion: true,
+badge: {
+title: "فروش ویژه",
+color: "#E6123D",
+icon: null
+},
+is_digiplus_promotion: false,
+is_digiplus_early_access: false,
+is_plus_promotion: false,
+is_plus_early_access: false,
+is_application_incredible: false,
+is_lightening_deal: false
+},
+digiplus: {
+services: [ ],
+is_jet_eligible: false,
+cash_back: 0,
+is_general_location_jet_eligible: false
+},
+product_badge: [ ]
+},
+{
+id: 6729260,
+category_id: 76,
+category_title: "محافظ صفحه نمایش گوشی",
+title_fa: "محافظ پشت گوشی نانو هورس مدل TPUB01 مناسب برای گوشی موبایل هوآوی P40 Pro",
+title_en: " Horse TPUB01 Nano Back Protector For Huawei P40 Pro ",
+rating: {
+rate: 0,
+count: 0
+},
+brand: {
+title_fa: "هورس"
+},
+status: "marketable",
+images: {
+main: "https://dkstatics-public.digikala.com/digikala-products/d5ea508b65f8049853ff293c9d4b4f902dd50d76_1634026775.jpg?x-oss-process=image/resize,m_lfit,h_240,w_240/quality,q_80"
+},
+default_variant_id: 22595083,
+parameters: {
+color_ids: [
+35,
+37
+]
+},
+properties: {
+is_fast_shopping: false,
+is_ship_by_seller: false,
+is_multi_warehouse: false,
+is_fake: false,
+is_ready_to_ship: false,
+has_gift: false,
+is_medical_supplement: false,
+is_electronic: false,
+is_roosta: false,
+is_ad: false
+},
+warehouse_stock: 0,
+price: {
+selling_price: 281000,
+rrp_price: 391000,
+order_limit: 2,
+is_incredible: false,
+is_promotion: true,
+badge: {
+title: "فروش ویژه",
+color: "#E6123D",
+icon: null
+},
+is_digiplus_promotion: false,
+is_digiplus_early_access: false,
+is_plus_promotion: false,
+is_plus_early_access: false,
+is_application_incredible: false,
+is_lightening_deal: false
+},
+digiplus: {
+services: [ ],
+is_jet_eligible: false,
+cash_back: 0,
+is_general_location_jet_eligible: false
+},
+product_badge: [ ]
+},
+{
+id: 6789106,
+category_id: 76,
+category_title: "محافظ صفحه نمایش گوشی",
+title_fa: "محافظ صفحه نمایش ژینوس مدل AIRBAG مناسب برای گوشی موبایل اپل iPhone 13",
+title_en: "Xinus AIRBAG Screen Protector For Apple iPhone 13",
+rating: {
+rate: 86,
+count: 3
+},
+brand: {
+title_fa: "ژینوس"
+},
+status: "marketable",
+images: {
+main: "https://dkstatics-public.digikala.com/digikala-products/e7c393b9313925d80f439189231b05ee5c8bd7aa_1637654201.jpg?x-oss-process=image/resize,m_lfit,h_240,w_240/quality,q_80"
+},
+default_variant_id: 22868559,
+parameters: {
+color_ids: [
+1
+]
+},
+properties: {
+is_fast_shopping: false,
+is_ship_by_seller: false,
+is_multi_warehouse: false,
+is_fake: false,
+is_ready_to_ship: false,
+has_gift: false,
+is_medical_supplement: false,
+is_electronic: false,
+is_roosta: false,
+is_ad: false
+},
+warehouse_stock: 0,
+price: {
+selling_price: 370000,
+rrp_price: 2770000,
+order_limit: 2,
+is_incredible: false,
+is_promotion: true,
+badge: {
+title: "فروش ویژه",
+color: "#E6123D",
+icon: null
+},
+is_digiplus_promotion: false,
+is_digiplus_early_access: false,
+is_plus_promotion: false,
+is_plus_early_access: false,
+is_application_incredible: false,
+is_lightening_deal: false
+},
+digiplus: {
+services: [ ],
+is_jet_eligible: false,
+cash_back: 0,
+is_general_location_jet_eligible: false
+},
+product_badge: [ ]
+},
+{
+id: 6870186,
+category_id: 76,
+category_title: "محافظ صفحه نمایش گوشی",
+title_fa: "محافظ صفحه نمایش نانو ژینوس مدل NPX مناسب برای گوشی موبایل سامسونگ Galaxy S21 FE 5G",
+title_en: " Xinus NPX Nano Screen Protector For Samsung Galaxy S21 FE 5G",
+rating: {
+rate: 40,
+count: 6
+},
+brand: {
+title_fa: "ژینوس"
+},
+status: "marketable",
+images: {
+main: "https://dkstatics-public.digikala.com/digikala-products/cba51067725182455014396d74140297cc51492d_1635404115.jpg?x-oss-process=image/resize,m_lfit,h_240,w_240/quality,q_80"
+},
+default_variant_id: 23318660,
+parameters: {
+color_ids: [
+37
+]
+},
+properties: {
+is_fast_shopping: false,
+is_ship_by_seller: false,
+is_multi_warehouse: false,
+is_fake: false,
+is_ready_to_ship: true,
+has_gift: false,
+is_medical_supplement: false,
+is_electronic: false,
+is_roosta: false,
+warehouse_label: "موجود در انبار دیجی‌کالا",
+is_ad: false
+},
+warehouse_stock: 2,
+price: {
+selling_price: 204000,
+rrp_price: 1050000,
+order_limit: 2,
+is_incredible: false,
+is_promotion: true,
+badge: {
+title: "فروش ویژه",
+color: "#E6123D",
+icon: null
+},
+is_digiplus_promotion: false,
+is_digiplus_early_access: false,
+is_plus_promotion: false,
+is_plus_early_access: false,
+is_application_incredible: false,
+is_lightening_deal: false
+},
+digiplus: {
+services: [
+"امکان ارسال فوری (شهر تهران)"
+],
+is_jet_eligible: true,
+cash_back: 0,
+is_general_location_jet_eligible: false
+},
+product_badge: {
+text: "موجود در انبار دیجی‌کالا",
+text_color: "#62666d",
+icon: "cube-badge-available-product",
+icon_color: "#0fabc6"
+}
+},
+{
+id: 6863887,
+category_id: 76,
+category_title: "محافظ صفحه نمایش گوشی",
+title_fa: "محافظ صفحه نمایش نانو هورس مدل TPU01 مناسب برای گوشی موبایل شیائومی Poco M2 Reloaded",
+title_en: "Horse TPU01 Nano Screen Protector For Xiaomi Poco M2 Reloaded",
+rating: {
+rate: 0,
+count: 0
+},
+brand: {
+title_fa: "هورس"
+},
+status: "marketable",
+images: {
+main: "https://dkstatics-public.digikala.com/digikala-products/3f1de12c9442e54c50d03feaccbdb4e5f647188a_1635334767.jpg?x-oss-process=image/resize,m_lfit,h_240,w_240/quality,q_80"
+},
+default_variant_id: 23163540,
+parameters: {
+color_ids: [
+37
+]
+},
+properties: {
+is_fast_shopping: false,
+is_ship_by_seller: false,
+is_multi_warehouse: false,
+is_fake: false,
+is_ready_to_ship: false,
+has_gift: false,
+is_medical_supplement: false,
+is_electronic: false,
+is_roosta: false,
+is_ad: false
+},
+warehouse_stock: 0,
+price: {
+selling_price: 281000,
+rrp_price: 1340000,
+order_limit: 2,
+is_incredible: false,
+is_promotion: true,
+badge: {
+title: "فروش ویژه",
+color: "#E6123D",
+icon: null
+},
+is_digiplus_promotion: false,
+is_digiplus_early_access: false,
+is_plus_promotion: false,
+is_plus_early_access: false,
+is_application_incredible: false,
+is_lightening_deal: false
+},
+digiplus: {
+services: [ ],
+is_jet_eligible: false,
+cash_back: 0,
+is_general_location_jet_eligible: false
+},
+product_badge: [ ]
+}
+],
+title: "منتخب محصولات تخفیف و حراج"
+}
+}
+]
+}

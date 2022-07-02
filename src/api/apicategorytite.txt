@@ -1,0 +1,1636 @@
+{
+status: 200,
+result: {
+widgets: [
+{
+type: "category_child_view",
+data: {
+title: "کالای دیجیتال",
+child: [
+{
+id: 1,
+title_fa: "موبایل",
+title_en: "موبایل",
+code: "mobile",
+image: "https://dkstatics-public.digikala.com/digikala-categories/389.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/ec9a962187e1f82cc47e7a148ef99ec1c6fd024d_1656423242.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 1078000
+},
+{
+id: 2,
+title_fa: "تبلت و کتابخوان",
+title_en: "تبلت و کتابخوان",
+code: "tablet-ebook-reader",
+image: "https://dkstatics-public.digikala.com/digikala-categories/390.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/61f47d4064d911b6fb6d7cc60956369ecd552d47_1624953172.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 34000
+},
+{
+id: 3,
+title_fa: "لپ تاپ",
+title_en: "لپ تاپ",
+code: "laptop",
+image: "https://dkstatics-public.digikala.com/digikala-categories/391.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/114389900.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 63000
+},
+{
+id: 6,
+title_fa: "دوربین",
+title_en: "دوربین",
+code: "camera",
+image: "https://dkstatics-public.digikala.com/digikala-categories/392.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/edc721821043fcd0a8bde0c804d3c0906eca4908_1624519112.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 8000
+},
+{
+id: 4,
+title_fa: "کامپیوتر و تجهیزات جانبی",
+title_en: "کامپیوتر و تجهیزات جانبی",
+code: "computer-parts",
+image: "https://dkstatics-public.digikala.com/digikala-categories/393.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/251456086a9ab9e8dd651b38fad939412168f742_1639848286.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 60000
+},
+{
+id: 5,
+title_fa: "ماشین های اداری",
+title_en: "ماشین های اداری",
+code: "office-machines",
+image: "https://dkstatics-public.digikala.com/digikala-categories/394.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/1430613.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 6000
+},
+{
+id: 6890,
+title_fa: "ساعت و مچ بند هوشمند",
+title_en: "ساعت و مچ بند هوشمند",
+code: "wearable-gadget",
+image: "https://dkstatics-public.digikala.com/digikala-categories/1000000067.png",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/ca96abfabf8dd30624cdc210f930149b1b032b95_1638601261.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 1000
+},
+{
+id: 6060,
+title_fa: "لوازم جانبی کالای دیجیتال",
+title_en: "لوازم جانبی کالای دیجیتال",
+code: "accessories-main",
+image: "https://dkstatics-public.digikala.com/digikala-categories/395.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/4351107.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 1201000
+},
+{
+id: 10128,
+title_fa: "سرویس‌های اینترنت و سیم‌کارت",
+title_en: "Internet Services",
+code: "internet-services",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/afc5cc5a03724d7572dd8a02493c5fe627adfbe9_1639913018.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 4
+},
+{
+id: 60,
+title_fa: "کنسول بازی",
+title_en: "کنسول بازی",
+code: "game-console",
+image: "https://dkstatics-public.digikala.com/digikala-categories/454.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/fe1424bb03add04e7c173f49417e1b07ed358eb8_1605100837.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 10000
+}
+],
+url: {
+url: "https://www.digikala.com/main/electronic-devices/",
+page: "category_main_page",
+params: {
+category_id: 5966
+},
+queries: [ ]
+}
+}
+},
+{
+type: "category_child_view",
+data: {
+title: "خودرو، ابزار و تجهیزات صنعتی",
+child: [
+{
+id: 8743,
+title_fa: "تجهیزات صنعتی و انبارداری",
+title_en: "انبارداری و صنعتی",
+code: "industrial-tools",
+image: "https://dkstatics-public.digikala.com/digikala-categories/76a2b77db9201c73b566d753dcb06e6a5755c222_1601380123.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/120814493.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 1000
+},
+{
+id: 6075,
+title_fa: "باغبانی و کشاورزی",
+title_en: "باغبانی",
+code: "gardening-tools",
+image: "https://dkstatics-public.digikala.com/digikala-categories/c426e2b7cb48ef51df44782ae56d646f8fbc8bff_1601380132.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/b1904f4abb2f5d3b6aab42f34f69dd8a0c16958f_1641591168.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 20000
+},
+{
+id: 8566,
+title_fa: "قطعات و تجهیزات خورشیدی",
+title_en: "پنل خورشیدی و ملزومات",
+code: "solar-panel-and-accessories",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/110515437.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 200
+},
+{
+id: 10688,
+title_fa: "وسایل نقلیه و لوازم یدکی",
+title_en: "Vehicles and Spare Parts",
+code: "vehicles-spare-parts",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/c329b11d4d28b3fbc403fe9b75c224a1daeb8afe_1619872345.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 68000
+},
+{
+id: 10689,
+title_fa: "ابزار برقی و غیر برقی",
+title_en: "Electric and Non-electric Tools",
+code: "Electric-non-electric-tools",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/6f7c49a74244de6b7f3ceeae8bb369c2b733407f_1637530121.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 67000
+},
+{
+id: 10690,
+title_fa: "یراق آلات، لوازم و مصالح ساختمانی",
+title_en: "Fittings and Construction",
+code: "fittings-construction",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/114408577.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 19000
+}
+],
+url: {
+url: "https://www.digikala.com/main/vehicles/",
+page: "category_main_page",
+params: {
+category_id: 8450
+},
+queries: [ ]
+}
+}
+},
+{
+type: "category_child_view",
+data: {
+title: "مد و پوشاک",
+child: [
+{
+id: 8752,
+title_fa: "مردانه",
+title_en: "مردانه",
+code: "mens-apparel",
+image: "https://dkstatics-public.digikala.com/digikala-categories/416.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/d96e096d3baa42da0ec82ec3614509a792e09b9b_1599655085.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 293000
+},
+{
+id: 8753,
+title_fa: "زنانه",
+title_en: "Women Clothing",
+code: "womens-apparel",
+image: "https://dkstatics-public.digikala.com/digikala-categories/415.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/121343638.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 422000
+},
+{
+id: 8754,
+title_fa: "بچگانه",
+title_en: "بچگانه",
+code: "kids-apparel",
+image: "https://dkstatics-public.digikala.com/digikala-categories/414.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/661a08e0eb8b8c20da614c23198062bab6c8ead4_1634155520.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 118000
+},
+{
+id: 9531,
+title_fa: "زنانه و مردانه",
+title_en: "Uni Clothing",
+code: "uni-clothing",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/194563252dc4cfea6f2b75a344919513e8c80583_1599267738.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 239000
+}
+],
+url: {
+url: "https://www.digikala.com/main/apparel/",
+page: "category_main_page",
+params: {
+category_id: 8749
+},
+queries: [ ]
+}
+}
+},
+{
+type: "category_child_view",
+data: {
+title: "اسباب بازی، کودک و نوزاد",
+child: [
+{
+id: 6758,
+title_fa: "ایمنی و مراقبت",
+title_en: "ایمنی و مراقبت",
+code: "safety-and-care",
+image: "https://dkstatics-public.digikala.com/digikala-categories/1000000181.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/119113710.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 1000
+},
+{
+id: 6744,
+title_fa: "تغذیه و رشد کودک",
+title_en: "غذاخوری",
+code: "dining-accessories",
+image: "https://dkstatics-public.digikala.com/digikala-categories/1000000182.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/17efdf96b0a1daf848bed952020641ba6a6e5af7_1612687598.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 2000
+},
+{
+id: 6742,
+title_fa: "پستانک و لوازم شیردهی",
+title_en: "لوازم شخصی",
+code: "personal-accessories",
+image: "https://dkstatics-public.digikala.com/digikala-categories/1000000183.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/115066329.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 2000
+},
+{
+id: 6760,
+title_fa: "بهداشت و حمام",
+title_en: "بهداشت و حمام",
+code: "health-and-bathroom-tools",
+image: "https://dkstatics-public.digikala.com/digikala-categories/1000000185.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/119197507.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 4000
+},
+{
+id: 6784,
+title_fa: "گردش و سفر",
+title_en: "گردش و سفر",
+code: "promenade-and-travel-accessories",
+image: "https://dkstatics-public.digikala.com/digikala-categories/1000000186.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/119528424.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 1000
+},
+{
+id: 6776,
+title_fa: "سرگرمی و آموزشی",
+title_en: "سرگرمی و آموزشی",
+code: "entertainment-and-games-equipment",
+image: "https://dkstatics-public.digikala.com/digikala-categories/1000000187.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/22e6f54a9cb05cbc99935db25fddbf1ed4f89b9c_1626594513.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 53000
+},
+{
+id: 6797,
+title_fa: "خواب کودک",
+title_en: "خواب کودک",
+code: "baby-bedding",
+image: "https://dkstatics-public.digikala.com/digikala-categories/1000000188.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/114445581.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 7000
+},
+{
+id: 6806,
+title_fa: "شوینده لباس کودک و نوزاد",
+title_en: "شوینده لباس",
+code: "cloths-cleaner",
+image: "https://dkstatics-public.digikala.com/digikala-categories/1000000189.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/1271203.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 50
+},
+{
+id: 10677,
+title_fa: "ملزومات اتاق کودک",
+title_en: "Baby Room Essentials",
+code: "baby-room-essentials",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/1bba2a99e64037852904eff33c2cb87e28a5d1a4_1633769292.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 11000
+}
+],
+url: {
+url: "https://www.digikala.com/main/mother-and-child/",
+page: "category_main_page",
+params: {
+category_id: 6741
+},
+queries: [ ]
+}
+}
+},
+{
+type: "category_child_view",
+data: {
+title: "کالاهای سوپرمارکتی",
+child: [
+{
+id: 8899,
+title_fa: "کالاهای اساسی و خوار و بار",
+title_en: "کالاهای اساسی و خوار و بار",
+code: "groceries",
+image: "https://dkstatics-public.digikala.com/digikala-categories/2d17f04eb6e8ba7d91b0a5c5d3c5ada45ae0cf93_1621765237.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/b37fec818d72ef88ab5bdd21ffa3d3e2be4f4a70_1642526181.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 1000
+},
+{
+id: 9208,
+title_fa: "لبنیات",
+title_en: "Diary",
+code: "dairy",
+image: "https://dkstatics-public.digikala.com/digikala-categories/45b324263b9209e909a39c1ef269b64a4e53daa4_1621765256.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/083313af20bc805bdb642ed7232c969cf7b5dab7_1612349454.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 600
+},
+{
+id: 9218,
+title_fa: "مواد پروتئینی و تخم مرغ",
+title_en: "مواد پروتئینی و تخم مرغ",
+code: "protein-foods",
+image: "https://dkstatics-public.digikala.com/digikala-categories/668b1103fb60ed886b6a680d8f74253f677bdd08_1621765281.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/794a2ec2fb145d77f8b9b0a16db7a96259e29836_1627384854.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 300
+},
+{
+id: 8915,
+title_fa: "صبحانه",
+title_en: "صبحانه",
+code: "breakfast",
+image: "https://dkstatics-public.digikala.com/digikala-categories/e5188b2a7e47df2e2d4a8813e92031829753b59e_1621765300.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/3284291.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 1000
+},
+{
+id: 8907,
+title_fa: "نوشیدنی‌های سرد",
+title_en: "نوشیدنی‌های سرد",
+code: "beverages",
+image: "https://dkstatics-public.digikala.com/digikala-categories/f974209cfba479dd02b623f6d89ec5c3164577ad_1621765314.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/120982373.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 1000
+},
+{
+id: 8896,
+title_fa: "کنسرو و غذای آماده",
+title_en: "کنسرو و غذای آماده",
+code: "ready-made-canned-food",
+image: "https://dkstatics-public.digikala.com/digikala-categories/50a81d73b09e02128134594675fa6d7a4ae2f68e_1621765331.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/4140462.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 200
+},
+{
+id: 8897,
+title_fa: "خشکبار و شیرینی",
+title_en: "خشکبار و شیرینی",
+code: "dried-fruit-nuts",
+image: "https://dkstatics-public.digikala.com/digikala-categories/3ecba71c1053aa60f30ce0e008068b0cdf096010_1621765408.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/d33f671ecfb5c399cc8a9aafa9b27ef8da34b4be_1595414875.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 2000
+},
+{
+id: 9229,
+title_fa: "میوه و سبزیجات",
+title_en: "Fruits and Vegetables",
+code: "fruits-and-vegetables",
+image: "https://dkstatics-public.digikala.com/digikala-categories/c125d9c8af36777f0f3c636b6ef17980d6b51421_1621765451.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/3572192.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 300
+},
+{
+id: 8898,
+title_fa: "تنقلات",
+title_en: "تنقلات",
+code: "snacks",
+image: "https://dkstatics-public.digikala.com/digikala-categories/f7b10475d884289f2ed28152cf81fd1a26ea993c_1621765439.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/2374744.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 2000
+},
+{
+id: 10102,
+title_fa: "گل طبیعی",
+title_en: "Natural Flowers",
+code: "natural-flowers",
+image: "https://dkstatics-public.digikala.com/digikala-categories/9d2dc8defc8a66617e136d0024710234b8897858_1621765464.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/5921d28d0d585246d429d0f1a8166dcaf9132555_1601017093.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 1000
+},
+{
+id: 10125,
+title_fa: "فینگر فود و پذیرایی",
+title_en: "Finger Food",
+code: "finger_food",
+image: "https://dkstatics-public.digikala.com/digikala-categories/bce8126c44a5e77b93b954122a582634d4b6fa96_1621765494.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/4da71552e44ec14ce5d9d9a7610aa3d721ca1cfc_1611654581.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 60
+},
+{
+id: 10119,
+title_fa: "مکمل غذایی و دارویی",
+title_en: "Dietary and medicinal supplements",
+code: "dietary_and_medicinal_supplements",
+image: "https://dkstatics-public.digikala.com/digikala-categories/23765e897ed325dda7b1a83b49d1a10e7cd61340_1622266353.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/ff0006a0904ad266dc9e51645b99fca7a851a4b6_1601746073.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 2000
+},
+{
+id: 10284,
+title_fa: "بهداشت شخصی",
+title_en: "Personal Hygiene",
+code: "personal-hygiene",
+image: "https://dkstatics-public.digikala.com/digikala-categories/5a7ae2cbbbd38ffdfc8ef8227b845ff6f652450f_1621765512.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/798bc4ab4a84aa8baef3be3a751bee0e090f227d_1649920109.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 16000
+},
+{
+id: 10285,
+title_fa: "بهداشت خانگی",
+title_en: "Home Hygiene",
+code: "home-hygiene",
+image: "https://dkstatics-public.digikala.com/digikala-categories/5d9cf963bc6af40efe6547ea963dc7116cacba23_1621765533.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/118024074.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 13000
+},
+{
+id: 10286,
+title_fa: "مادر و کودک",
+title_en: "Baby and Mother",
+code: "baby-and-mother",
+image: "https://dkstatics-public.digikala.com/digikala-categories/caef178c1770725eb975a48d10c337a99e2ae41c_1621765662.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/768ab0cb5a50bfe5a522b2bd538cb9f280fc60f9_1643450327.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 1000
+},
+{
+id: 10571,
+title_fa: "افزودنی ها",
+title_en: "افزودنی ها",
+code: "condiments",
+image: "https://dkstatics-public.digikala.com/digikala-categories/c5f14402bef25fee398c6bc86d4c1f72099d784c_1639236777.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/114356296.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 3000
+},
+{
+id: 10612,
+title_fa: "فرآورده‌های منجمد و یخچالی",
+title_en: "فرآورده‌های منجمد و یخچالی",
+code: "frozen-food",
+image: "https://dkstatics-public.digikala.com/digikala-categories/b5f927ba4407abaada87fafe3e66dd8309f6e665_1641900640.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/44f86375be5b6c63a1a83711b541ff9b3d5aa015_1639200985.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 200
+},
+{
+id: 10775,
+title_fa: "شور و ترشیجات",
+title_en: "شور و ترشیجات",
+code: "salts-and-pickles",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/3387765.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 300
+},
+{
+id: 10888,
+title_fa: "نوشیدنی‌های گرم",
+title_en: "Warm drinks",
+code: "warm-drinks",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/2443587.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 4000
+}
+],
+url: {
+url: "https://www.digikala.com/main/food-beverage/",
+page: "category_main_page",
+params: {
+category_id: 8895
+},
+queries: [ ]
+}
+}
+},
+{
+type: "category_child_view",
+data: {
+title: "زیبایی و سلامت",
+child: [
+{
+id: 5700,
+title_fa: "لوازم آرایشی",
+title_en: "لوازم آرایشی",
+code: "beauty",
+image: "https://dkstatics-public.digikala.com/digikala-categories/be416554396e9dd43254ee5091acfd061993c816_1644049330.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/7c43d207dab43022823656ce987b290fa554fecb_1630408599.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 57000
+},
+{
+id: 5824,
+title_fa: "لوازم بهداشتی",
+title_en: "Personal Care",
+code: "personal-care",
+image: "https://dkstatics-public.digikala.com/digikala-categories/cb26d87a3907bb96046af21076bbce4ddb3533e9_1644049352.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/559707.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 29000
+},
+{
+id: 6607,
+title_fa: "لوازم شخصی برقی",
+title_en: "لوازم شخصی برقی",
+code: "electrical-personal-care",
+image: "https://dkstatics-public.digikala.com/digikala-categories/b26cac5a6ed4642301bef0d6bb723022f97295e8_1644049374.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/325689.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 4000
+},
+{
+id: 6162,
+title_fa: "عطر و ادکلن",
+title_en: "عطر و ادکلن",
+code: "perfume-all",
+image: "https://dkstatics-public.digikala.com/digikala-categories/5660470a02f66ee563accc659e293285d25deeae_1644049397.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/887482.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 13000
+},
+{
+id: 5702,
+title_fa: "ابزار سلامت",
+title_en: "ابزار سلامت",
+code: "health-care",
+image: "https://dkstatics-public.digikala.com/digikala-categories/392f9b03e428881bac23852342e3ab6b5ca8237f_1644049420.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/f1efae84f679351fc454fc5bc978e4ac43b7d64f_1626074661.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 13000
+}
+],
+url: {
+url: "https://www.digikala.com/main/personal-appliance/",
+page: "category_main_page",
+params: {
+category_id: 5968
+},
+queries: [ ]
+}
+}
+},
+{
+type: "category_child_view",
+data: {
+title: "خانه و آشپزخانه",
+child: [
+{
+id: 6250,
+title_fa: "شستشو و نظافت",
+title_en: "شستشو و نظافت",
+code: "cleaning",
+image: "https://dkstatics-public.digikala.com/digikala-categories/1000000168.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/2935188.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 10000
+},
+{
+id: 6263,
+title_fa: "حمام و سرویس بهداشتی",
+title_en: "حمام",
+code: "bath",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/120101884.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 27000
+},
+{
+id: 7,
+title_fa: "صوتی و تصویری",
+title_en: "صوتی و تصویری",
+code: "video-audio-entertainment",
+image: "https://dkstatics-public.digikala.com/digikala-categories/1000000169.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/a61059cfbe546c98d6385ecc31c70c936bb0b2ed_1635006072.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 29000
+},
+{
+id: 6226,
+title_fa: "آشپزخانه",
+title_en: "آشپزخانه",
+code: "home-kitchen-appliances",
+image: "https://dkstatics-public.digikala.com/digikala-categories/1000000173.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/4cf2c6933f27856dc5df3cc49f295c45536fba96_1644049292.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 64000
+},
+{
+id: 6254,
+title_fa: "سرو و پذیرایی",
+title_en: "سرو و پذیرایی",
+code: "serving",
+image: "https://dkstatics-public.digikala.com/digikala-categories/1000000175.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/90d1fd978dec5b532ea8491f652adddb0b1664ad_1636807291.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 178000
+},
+{
+id: 8428,
+title_fa: "حیوانات خانگی",
+title_en: "حیوانات خانگی",
+code: "pet",
+image: "https://dkstatics-public.digikala.com/digikala-categories/1000000176.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/d6935bdf7218ea8717c44667846180066f9509d3_1626457504.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 17000
+},
+{
+id: 5753,
+title_fa: "لوازم خانگی برقی",
+title_en: "لوازم خانگی برقی",
+code: "home-appliance",
+image: "https://dkstatics-public.digikala.com/digikala-categories/1000000179.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/119728842.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 13000
+},
+{
+id: 6249,
+title_fa: "دکوراتیو",
+title_en: "دکوراتیو",
+code: "decorative",
+image: "https://dkstatics-public.digikala.com/digikala-categories/1000000178.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/1078971.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 303000
+},
+{
+id: 6246,
+title_fa: "خواب",
+title_en: "خواب و حمام",
+code: "bedandbath",
+image: "https://dkstatics-public.digikala.com/digikala-categories/1000000177.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/98f2e196da9438bcbc6440e1eaa5fa71f8846eb5_1636454903.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 25000
+},
+{
+id: 8465,
+title_fa: "اکسسوری لوازم شخصی",
+title_en: "اکسسوری لوازم شخصی",
+code: "pesonal-appliance-accessories",
+image: "https://dkstatics-public.digikala.com/digikala-categories/1000000180.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/64dec48c1b7ff5bbbd95b97ffdf216371839e102_1605181006.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 8000
+},
+{
+id: 6394,
+title_fa: "روشنایی و الکتریکی",
+title_en: "نور و روشنایی",
+code: "lighting",
+image: "https://dkstatics-public.digikala.com/digikala-categories/1000000170.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/e10938a8268399a90fdae8e245015cf765753be4_1613486389.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 33000
+},
+{
+id: 6936,
+title_fa: "فرش و گلیم",
+title_en: "فرش",
+code: "carpet",
+image: "https://dkstatics-public.digikala.com/digikala-categories/1000000193.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/869167c64663111b9b53275b5889bfd30ea4dee8_1612455186.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 24000
+}
+],
+url: {
+url: "https://www.digikala.com/main/home-and-kitchen/",
+page: "category_main_page",
+params: {
+category_id: 5967
+},
+queries: [ ]
+}
+}
+},
+{
+type: "category_child_view",
+data: {
+title: "کتاب، لوازم تحریر و هنر",
+child: [
+{
+id: 10486,
+title_fa: "کتاب",
+title_en: "Book",
+code: "book",
+image: "https://dkstatics-public.digikala.com/digikala-categories/52870ad4851d8d09fd2b50cf6e17a9b05960ec2b_1632290992.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/df655937775d6caa45b03ce44ac4831fe9bc3575_1641021708.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 105000
+},
+{
+id: 5917,
+title_fa: "مجلات، نقشه و نشانگر کتاب",
+title_en: "مجلات و نقشه",
+code: "publication",
+image: "https://dkstatics-public.digikala.com/digikala-categories/5dbc5774aa766b6edae7115ea26a0f3ff66c5504_1641132735.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/53afa546fdf375a24a8fc48a90492a59c7932ba5_1624983108.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 5000
+},
+{
+id: 5970,
+title_fa: "لوازم تحریر",
+title_en: "لوازم التحریر",
+code: "stationery",
+image: "https://dkstatics-public.digikala.com/digikala-categories/1000000191.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/121351485.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 108000
+},
+{
+id: 6451,
+title_fa: "صنایع دستی",
+title_en: "صنایع دستی",
+code: "handicraft",
+image: "https://dkstatics-public.digikala.com/digikala-categories/1000000192.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/885667ca46869ae4fba096fb98a2c6a2caeadffb_1645432329.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 57000
+},
+{
+id: 6936,
+title_fa: "فرش و گلیم",
+title_en: "فرش",
+code: "carpet",
+image: "https://dkstatics-public.digikala.com/digikala-categories/1000000193.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/869167c64663111b9b53275b5889bfd30ea4dee8_1612455186.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 24000
+},
+{
+id: 6153,
+title_fa: "آلات موسیقی",
+title_en: "آلات موسیقی",
+code: "musicalinstruments",
+image: "https://dkstatics-public.digikala.com/digikala-categories/1000000194.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/1012970.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 4000
+},
+{
+id: 5905,
+title_fa: "موسیقی",
+title_en: "موسیقی",
+code: "music-audio-content",
+image: "https://dkstatics-public.digikala.com/digikala-categories/1000000195.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/7f852a64ed9e3047fed9c26f248e21ba605c7985_1652086571.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 2000
+},
+{
+id: 5900,
+title_fa: "فیلم",
+title_en: "فیلم",
+code: "film-video-content",
+image: "https://dkstatics-public.digikala.com/digikala-categories/1000000196.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/edad926acb499a5195e13651a8c40464dd05c0c2_1596912227.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 1000
+},
+{
+id: 5981,
+title_fa: "نرم افزار و بازی",
+title_en: "نرم افزار و بازی",
+code: "software-games",
+image: "https://dkstatics-public.digikala.com/digikala-categories/1000000197.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/a666261bd7bf780b2934982191ac1b62ca9a2410_1636283796.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 2000
+},
+{
+id: 5907,
+title_fa: "محتوای آموزشی",
+title_en: "محتوای آموزشی",
+code: "multimedia-training-pack",
+image: "https://dkstatics-public.digikala.com/digikala-categories/1000000198.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/749887ba0292382e4e25481999a799de09e91ee1_1613453932.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 2000
+},
+{
+id: 5916,
+title_fa: "مترجم و کتاب صوتی",
+title_en: "کتاب و نشریات دیجیتال",
+code: "digital-publication",
+image: "https://dkstatics-public.digikala.com/digikala-categories/1000000199.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/1580733.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 100
+},
+{
+id: 9014,
+title_fa: "محصولات مذهبی",
+title_en: "محصولات مذهبی",
+code: "religious-products",
+image: "https://dkstatics-public.digikala.com/digikala-categories/1000000200.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/d4a54d58021d616ad4b5bfd4d9980e90bb0f1bc5_1598194981.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 1000
+}
+],
+url: {
+url: "https://www.digikala.com/main/book-and-media/",
+page: "category_main_page",
+params: {
+category_id: 8
+},
+queries: [ ]
+}
+}
+},
+{
+type: "category_child_view",
+data: {
+title: "ورزش و سفر",
+child: [
+{
+id: 6816,
+title_fa: "پوشاک ورزشی",
+title_en: "پوشاک ورزشی",
+code: "sports-wear",
+image: "https://dkstatics-public.digikala.com/digikala-categories/1000000209.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/0baf53cb9c43c2a3df743482d076099500d1e8aa_1636362711.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 100
+},
+{
+id: 6089,
+title_fa: "لوازم ورزشی",
+title_en: "لوازم ورزشی",
+code: "sport",
+image: "https://dkstatics-public.digikala.com/digikala-categories/1000000211.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/2dc73aa2edc68f4ca325c8e6da67e7db7fcfb0a0_1626788446.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 18000
+},
+{
+id: 6020,
+title_fa: "لوازم سفر و کمپینگ",
+title_en: "تجهیزات سفر",
+code: "traveling-equipment",
+image: "https://dkstatics-public.digikala.com/digikala-categories/1000000213.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/111602617.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 29000
+}
+],
+url: {
+url: "https://www.digikala.com/main/sport-entertainment/",
+page: "category_main_page",
+params: {
+category_id: 6124
+},
+queries: [ ]
+}
+}
+},
+{
+type: "category_child_view",
+data: {
+title: "محصولات بومی و محلی",
+child: [
+{
+id: 10171,
+title_fa: "خانه و کاشانه بومی محلی",
+title_en: "Rural Home",
+code: "rural-home",
+image: "https://dkstatics-public.digikala.com/digikala-categories/a4d4fbd49c8d60c5b7c5229828e88b33f5c9c5c0_1619441605.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/7032687d3a49bba7c2b5532a764373252eac3b07_1632837942.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 700
+},
+{
+id: 10173,
+title_fa: "پوشیدنی های بومی محلی",
+title_en: "Rural Cloth And Apparel",
+code: "Rural-Cloth-And-Apparel",
+image: "https://dkstatics-public.digikala.com/digikala-categories/cb187c0b06b8d80095b0196d58c132533e723006_1619441619.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/259290214903a8665c55a3f5bd9cb623caa62fd4_1631678909.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 500
+},
+{
+id: 10184,
+title_fa: "بازی و سرگرمی های بومی محلی",
+title_en: "Rural Game and Fun",
+code: "game-and-fun",
+image: "https://dkstatics-public.digikala.com/digikala-categories/b75cd39ecb90b664ce3298b2326b40bbd5557dc9_1619248875.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/c67e990fe45f8113cadbe94d1052bb6671cb9b52_1640791063.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 100
+},
+{
+id: 10318,
+title_fa: "خوراکی های بومی محلی",
+title_en: "Rural Food and Beverage",
+code: "rural-food-and-beverage",
+image: "https://dkstatics-public.digikala.com/digikala-categories/e751c087b9cf8910a79b3f0f57d1883565702a87_1619441629.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/9376227f3fb895d07ac0605dd03ef5b4667aed6e_1647549033.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 7000
+}
+],
+url: {
+url: "https://www.digikala.com/main/rural-products/",
+page: "category_main_page",
+params: {
+category_id: 10170
+},
+queries: [ ]
+}
+}
+},
+{
+type: "category_child_view",
+data: {
+title: "کارت هدیه",
+child: [
+{
+id: 10026,
+title_fa: "کارت هدیه دیجی استایل",
+title_en: "کارت هدیه دیجی استایل",
+code: "digistyle-gift-card",
+image: "https://dkstatics-public.digikala.com/digikala-categories/1000000073.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/112550789.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 10
+},
+{
+id: 8102,
+title_fa: "کارت هدیه دیجی کالا",
+title_en: "کارت هدیه دیجی کالا",
+code: "digikala-gift-card",
+image: "https://dkstatics-public.digikala.com/digikala-categories/1000000071.jpg",
+top_product_image: "https://dkstatics-public.digikala.com/digikala-products/119829093.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80",
+products_count: 100
+}
+],
+url: {
+url: "https://www.digikala.com/main/dk-ds-gift-card/",
+page: "category_main_page",
+params: {
+category_id: 10061
+},
+queries: [ ]
+}
+}
+},
+{
+type: "small_separator",
+data: [ ]
+},
+{
+type: "search_trends",
+data: {
+title: "پرطرفدارترین جستجوهای اخیر",
+items: [
+{
+keyword: "گوشی موبایل",
+url: {
+url: "https://www.digikala.com/search/?q=%DA%AF%D9%88%D8%B4%DB%8C+%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84",
+page: "search_page",
+params: [ ],
+queries: {
+q: "گوشی موبایل"
+}
+}
+},
+{
+keyword: "لوازم خانگی برقی",
+url: {
+url: "https://www.digikala.com/search/?q=%D9%84%D9%88%D8%A7%D8%B2%D9%85+%D8%AE%D8%A7%D9%86%DA%AF%DB%8C+%D8%A8%D8%B1%D9%82%DB%8C",
+page: "search_page",
+params: [ ],
+queries: {
+q: "لوازم خانگی برقی"
+}
+}
+},
+{
+keyword: "لپ تاپ",
+url: {
+url: "https://www.digikala.com/search/?q=%D9%84%D9%BE+%D8%AA%D8%A7%D9%BE",
+page: "search_page",
+params: [ ],
+queries: {
+q: "لپ تاپ"
+}
+}
+},
+{
+keyword: "کنسول بازی",
+url: {
+url: "https://www.digikala.com/search/?q=%DA%A9%D9%86%D8%B3%D9%88%D9%84+%D8%A8%D8%A7%D8%B2%DB%8C",
+page: "search_page",
+params: [ ],
+queries: {
+q: "کنسول بازی"
+}
+}
+},
+{
+keyword: "دوچرخه",
+url: {
+url: "https://www.digikala.com/search/?q=%D8%AF%D9%88%DA%86%D8%B1%D8%AE%D9%87",
+page: "search_page",
+params: [ ],
+queries: {
+q: "دوچرخه"
+}
+}
+}
+]
+}
+},
+{
+type: "small_separator",
+data: [ ]
+},
+{
+type: "horizontal_brands_category",
+data: {
+title: "محبوب‌ترین برندها",
+category_brands: [
+{
+category: {
+id: 5966,
+title_fa: "کالای دیجیتال",
+title_en: "کالای دیجیتال",
+code: "electronic-devices"
+},
+brands: [
+{
+id: 18,
+title_fa: "سامسونگ",
+title_en: "Samsung",
+image: "https://dkstatics-public.digikala.com/digikala-brands/3960.jpg?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 1662,
+title_fa: "شیائومی",
+title_en: "Xiaomi",
+image: "https://dkstatics-public.digikala.com/digikala-brands/2994.png?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 56,
+title_fa: "تسکو",
+title_en: "TSCO",
+image: "https://dkstatics-public.digikala.com/digikala-brands/5518.png?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 170,
+title_fa: "کملیون",
+title_en: "Camelion",
+image: "https://dkstatics-public.digikala.com/digikala-brands/5619.png?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 29404,
+title_fa: "گلس استار",
+title_en: "glass star",
+image: "https://dkstatics-public.digikala.com/digikala-brands/0e1f6d05d3fb89f9e6a3db923bbddf5e37b1680f_1628494036.png?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 94,
+title_fa: "لنوو",
+title_en: "Lenovo",
+image: "https://dkstatics-public.digikala.com/digikala-brands/4001.png?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 23635,
+title_fa: "لیتو",
+title_en: "Leitu",
+image: "https://dkstatics-public.digikala.com/digikala-brands/b46a720b21296adc1c9d21b931c8d978d0f5f771_1621675109.jpg?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 61,
+title_fa: "ای دیتا",
+title_en: "ADATA",
+image: "https://dkstatics-public.digikala.com/digikala-brands/1800.png?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+}
+]
+},
+{
+category: {
+id: 8450,
+title_fa: "خودرو، ابزار و تجهیزات صنعتی",
+title_en: "وسایل نقلیه و صنعتی",
+code: "vehicles"
+},
+brands: [
+{
+id: 1377,
+title_fa: "رونیکس",
+title_en: "Ronix",
+image: "https://dkstatics-public.digikala.com/digikala-brands/100012416.jpg?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 30474,
+title_fa: "چیکال",
+title_en: "chikal",
+image: "https://dkstatics-public.digikala.com/digikala-brands/4560711ece300a10a7c2d002daa1500fce0b7fed_1634037132.jpg?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 2446,
+title_fa: "کاسپین",
+title_en: "Caspian",
+image: "https://dkstatics-public.digikala.com/digikala-brands/100012489.jpg?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 15030,
+title_fa: "بیلگین",
+title_en: "BILGIN",
+image: "https://dkstatics-public.digikala.com/digikala-brands/100012149.jpg?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 2931,
+title_fa: "گیلدا",
+title_en: "Gilda",
+image: "https://dkstatics-public.digikala.com/digikala-brands/100010211.jpg?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 4228,
+title_fa: "تام کلین",
+title_en: "Tam Clean",
+image: "https://dkstatics-public.digikala.com/digikala-brands/100012496.jpg?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 32060,
+title_fa: "سی واکس",
+title_en: "cwax",
+image: "https://dkstatics-public.digikala.com/digikala-brands/7d33a0599fea5653d86abaf58e5d282fac0c6d6b_1641980504.jpg?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 3644,
+title_fa: "رازی",
+title_en: "Razi",
+image: "https://dkstatics-public.digikala.com/digikala-brands/3314.png?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+}
+]
+},
+{
+category: {
+id: 8749,
+title_fa: "مد و پوشاک",
+title_en: "مد و پوشاک",
+code: "apparel"
+},
+brands: [
+{
+id: 17046,
+title_fa: "کیکی رایکی",
+title_en: "Kikiriki",
+image: "https://dkstatics-public.digikala.com/digikala-brands/02ffbe428c114595e445e53fa36d59860468bf88_1594023772.jpg?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 7838,
+title_fa: "آریان نخ باف",
+title_en: "Arian Nakh Baf",
+image: "https://dkstatics-public.digikala.com/digikala-brands/4637.png?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 5196,
+title_fa: "مارال",
+title_en: "Maral",
+image: "https://dkstatics-public.digikala.com/digikala-brands/954.png?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 7005,
+title_fa: "باینت",
+title_en: "Baynet",
+image: "https://dkstatics-public.digikala.com/digikala-brands/6121429b7133dafda8a035f21a4ad8c9352dddfc_1630338035.jpg?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 7151,
+title_fa: "اسمارا",
+title_en: "Esmara",
+image: "https://dkstatics-public.digikala.com/digikala-brands/23116f6c4328be403b65fac52c7f77c394bd134b_1620821902.png?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 4832,
+title_fa: "کیمی",
+title_en: "Kemei",
+image: "https://dkstatics-public.digikala.com/digikala-brands/2549.png?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 14611,
+title_fa: "وی جی ار",
+title_en: "VGR",
+image: "https://dkstatics-public.digikala.com/digikala-brands/100011704.jpg?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 4291,
+title_fa: "اسکمی",
+title_en: "Skmei",
+image: "https://dkstatics-public.digikala.com/digikala-brands/efff4d6c246ec731789110e3a6e21b35984f23ec_1620821665.png?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+}
+]
+},
+{
+category: {
+id: 6741,
+title_fa: "اسباب بازی، کودک و نوزاد",
+title_en: "اسباب بازی و کودک",
+code: "mother-and-child"
+},
+brands: [
+{
+id: 2083,
+title_fa: "فیروز",
+title_en: "Firooz",
+image: "https://dkstatics-public.digikala.com/digikala-brands/100012455.jpg?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 32891,
+title_fa: "هانیز",
+title_en: "Honeys",
+image: "https://dkstatics-public.digikala.com/digikala-brands/5b375c212b457da664aff81eb33e02466656e4c4_1645966793.png?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 12440,
+title_fa: "بیبی کینگ",
+title_en: "Baby King",
+image: "https://dkstatics-public.digikala.com/digikala-brands/b169f7d6337313ed8f0436201f262133a60a7b17_1626153244.jpg?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 2131,
+title_fa: "مای بیبی",
+title_en: "My Baby",
+image: "https://dkstatics-public.digikala.com/digikala-brands/100010006.png?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 2149,
+title_fa: "مولفیکس",
+title_en: "Molfix",
+image: "https://dkstatics-public.digikala.com/digikala-brands/f880ac63a446122e0d97bac1b4e967accdcd2654_1610541497.png?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 11686,
+title_fa: "دنیای سرگرمی های کمیاب",
+title_en: "DONIAYE SARGARMIHAYE KAMYAB",
+image: "https://dkstatics-public-2.digikala.com/digikala-brands/100008674.jpg?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 4014,
+title_fa: "اینتکس",
+title_en: "Intex",
+image: "https://dkstatics-public.digikala.com/digikala-brands/3185.png?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 18226,
+title_fa: "کانفی",
+title_en: "Confy Baby",
+image: "https://dkstatics-public.digikala.com/digikala-brands/c5bc597f45ee89416d576eb13efb981dca44cd96_1594542019.png?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+}
+]
+},
+{
+category: {
+id: 8895,
+title_fa: "کالاهای سوپرمارکتی",
+title_en: "کالاهای سوپرمارکتی",
+code: "food-beverage"
+},
+brands: [
+{
+id: 6873,
+title_fa: "کاله",
+title_en: "Kalleh",
+image: "https://dkstatics-public.digikala.com/digikala-brands/311.png?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 29121,
+title_fa: "فرش",
+title_en: "Fresh",
+image: "https://dkstatics-public.digikala.com/digikala-brands/f660c46ffc6d58a19e5c0af9d03c50be9a929571_1627214766.png?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 6941,
+title_fa: "تافته",
+title_en: "Tafteh",
+image: "https://dkstatics-public.digikala.com/digikala-brands/269.png?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 2532,
+title_fa: "اکتیو",
+title_en: "Active",
+image: "https://dkstatics-public.digikala.com/digikala-brands/8f4cfdd11abb02b69fe686b88bf43af5489589ee_1645874666.png?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 8897,
+title_fa: "مهیا پروتئین",
+title_en: "Mahya Protein",
+image: "https://dkstatics-public.digikala.com/digikala-brands/6061.png?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 2375,
+title_fa: "بیژن",
+title_en: "Bijan",
+image: "https://dkstatics-public.digikala.com/digikala-brands/100014253.png?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 2449,
+title_fa: "پرسیل",
+title_en: "Persil",
+image: "https://dkstatics-public.digikala.com/digikala-brands/7d615272ba7fc5dd708195ae858e2971de86a06f_1649498033.png?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 6676,
+title_fa: "لادن",
+title_en: "Ladan",
+image: "https://dkstatics-public.digikala.com/digikala-brands/100009593.png?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+}
+]
+},
+{
+category: {
+id: 5968,
+title_fa: "زیبایی و سلامت",
+title_en: "آرایشی و بهداشتی",
+code: "personal-appliance"
+},
+brands: [
+{
+id: 14976,
+title_fa: "بایو آکوا",
+title_en: "Bioaqua",
+image: "https://dkstatics-public.digikala.com/digikala-brands/627f3a8485f2884e7ae2951adf0761fc3792495e_1627386509.png?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 1847,
+title_fa: "مای",
+title_en: "My",
+image: "https://dkstatics-public.digikala.com/digikala-brands/3972.png?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 1848,
+title_fa: "شون",
+title_en: "Schon",
+image: "https://dkstatics-public.digikala.com/digikala-brands/bff03daf9cf71a71b7e41b31255ba9e747d1a01f_1644133724.jpg?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 4357,
+title_fa: "ناچ کدکس",
+title_en: "Nach Kodex",
+image: "https://dkstatics-public.digikala.com/digikala-brands/3131.png?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 6016,
+title_fa: "کامان",
+title_en: "Come On",
+image: "https://dkstatics-public.digikala.com/digikala-brands/70ad4ff2c191311ed42dcf3625596c2f57ccb4ba_1620821804.png?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 6941,
+title_fa: "تافته",
+title_en: "Tafteh",
+image: "https://dkstatics-public.digikala.com/digikala-brands/269.png?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 2419,
+title_fa: "سی گل",
+title_en: "SeaGull",
+image: "https://dkstatics-public-2.digikala.com/digikala-brands/100008276.jpg?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 5736,
+title_fa: "سریتا",
+title_en: "Cerita",
+image: "https://dkstatics-public.digikala.com/digikala-brands/830.png?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+}
+]
+},
+{
+category: {
+id: 5967,
+title_fa: "خانه و آشپزخانه",
+title_en: "خانه، آشپزخانه و ابزار",
+code: "home-and-kitchen"
+},
+brands: [
+{
+id: 2386,
+title_fa: "ایکیا",
+title_en: "Ikea",
+image: "https://dkstatics-public.digikala.com/digikala-brands/2385.png?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 94,
+title_fa: "لنوو",
+title_en: "Lenovo",
+image: "https://dkstatics-public.digikala.com/digikala-brands/4001.png?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 15856,
+title_fa: "ایفل",
+title_en: "EYFEL",
+image: "https://dkstatics-public.digikala.com/digikala-brands/100013073.jpg?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 10535,
+title_fa: "بی تا",
+title_en: "Bita",
+image: "https://dkstatics-public.digikala.com/digikala-brands/7837.png?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 7140,
+title_fa: "لیمون",
+title_en: "limon",
+image: "https://dkstatics-public.digikala.com/digikala-brands/119.png?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 4414,
+title_fa: "تنو",
+title_en: "Teno",
+image: "https://dkstatics-public.digikala.com/digikala-brands/2753.png?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 1090,
+title_fa: "پارس خزر",
+title_en: "Pars Khazar",
+image: "https://dkstatics-public.digikala.com/digikala-brands/4195.png?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 23635,
+title_fa: "لیتو",
+title_en: "Leitu",
+image: "https://dkstatics-public.digikala.com/digikala-brands/b46a720b21296adc1c9d21b931c8d978d0f5f771_1621675109.jpg?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+}
+]
+},
+{
+category: {
+id: 8,
+title_fa: "کتاب، لوازم تحریر و هنر",
+title_en: "کتاب، لوازم تحریر و هنر",
+code: "book-and-media"
+},
+brands: [
+{
+id: 7182,
+title_fa: "انتشارات آتیسا",
+title_en: "Atisa Publishers",
+image: "https://dkstatics-public.digikala.com/digikala-brands/130.png?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 21541,
+title_fa: "نشر آزرمیدخت",
+title_en: "Azarmidokht PUB",
+image: "https://dkstatics-public.digikala.com/digikala-brands/16517a888e7a9a74681fb8a4a6fef0ecfe21e0c6_1610798691.png?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 12085,
+title_fa: "مستر راد",
+title_en: "Mr Rad",
+image: "https://dkstatics-public-2.digikala.com/digikala-brands/100009092.jpg?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 24421,
+title_fa: "انتشارات نیک فرجام",
+title_en: "Nik Farjam Pub",
+image: "https://dkstatics-public.digikala.com/digikala-brands/21aceb22d1e397400ed72c9562d3713e4b8173b1_1624359950.png?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 15429,
+title_fa: "انتشارات نگین ایران",
+title_en: "entesharat negin iran",
+image: "https://dkstatics-public.digikala.com/digikala-brands/100012630.jpg?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 2580,
+title_fa: "کیان",
+title_en: "Kian",
+image: "https://dkstatics-public.digikala.com/digikala-brands/100012460.jpg?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 1714,
+title_fa: "پنتر",
+title_en: "Panter",
+image: "https://dkstatics-public.digikala.com/digikala-brands/100012429.jpg?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 3609,
+title_fa: "پاپکو",
+title_en: "Papco",
+image: "https://dkstatics-public.digikala.com/digikala-brands/3280.png?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+}
+]
+},
+{
+category: {
+id: 6124,
+title_fa: "ورزش و سفر",
+title_en: "ورزش و سفر",
+code: "sport-entertainment"
+},
+brands: [
+{
+id: 187,
+title_fa: "فوروارد",
+title_en: "Forward",
+image: "https://dkstatics-public.digikala.com/digikala-brands/100010607.png?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 1295,
+title_fa: "تن زیب",
+title_en: "TanZib",
+image: "https://dkstatics-public.digikala.com/digikala-brands/7323.jpg?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 19700,
+title_fa: "گوگانا",
+title_en: "googana",
+image: "https://dkstatics-public.digikala.com/digikala-brands/0258cb71cc8afa6e85037ea2376f7ef7f104abcd_1602572887.jpg?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 6768,
+title_fa: "مانیا",
+title_en: "mania",
+image: "https://dkstatics-public.digikala.com/digikala-brands/1058.png?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 19870,
+title_fa: "هزاردستان",
+title_en: "Hezardastan",
+image: "https://dkstatics-public.digikala.com/digikala-brands/7a5e3e066643bc0178c15f4f772007da820eca47_1603783758.jpg?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 12820,
+title_fa: "وی کی اسپورت",
+title_en: "VK sport",
+image: "https://dkstatics-public.digikala.com/digikala-brands/100009815.jpg?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 12164,
+title_fa: "ویداسی",
+title_en: "WEiDASi",
+image: "https://dkstatics-public-2.digikala.com/digikala-brands/100009174.jpg?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 2437,
+title_fa: "اف آی تی",
+title_en: "F.I.T",
+image: "https://dkstatics-public.digikala.com/digikala-brands/100012479.jpg?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+}
+]
+},
+{
+category: {
+id: 10170,
+title_fa: "محصولات بومی و محلی",
+title_en: "محصولات بومی و محلی",
+code: "rural-products"
+},
+brands: [
+{
+id: 22094,
+title_fa: "سرمد",
+title_en: "sarmad",
+image: "https://dkstatics-public.digikala.com/digikala-brands/ee543b385e4b8222daa4d32c502ff85ae6923209_1613379327.jpg?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 34299,
+title_fa: "دستچین کالا",
+title_en: "Dastchin Kala",
+image: "https://dkstatics-public.digikala.com/digikala-brands/dbe4cf0cfd265bb278c6b743f1b6b5aa181c8249_1655884790.jpg?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 8956,
+title_fa: "سالمین",
+title_en: "Salemin",
+image: "https://dkstatics-public.digikala.com/digikala-brands/6124.png?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 32217,
+title_fa: "قصیده",
+title_en: "qasideh",
+image: "https://dkstatics-public.digikala.com/digikala-brands/b0b6dcea0e68b66c8d2bee2860ded1c113e15e65_1642586133.jpg?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 15208,
+title_fa: "آرانیک",
+title_en: "Aranick",
+image: "https://dkstatics-public.digikala.com/digikala-brands/100012332.jpg?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 10399,
+title_fa: "آبگینه",
+title_en: "Abgineh",
+image: "https://dkstatics-public.digikala.com/digikala-brands/100012683.png?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 23892,
+title_fa: "فدک",
+title_en: "FADAK",
+image: "https://dkstatics-public.digikala.com/digikala-brands/afe623cd46332243fcb67a8ef4f268b9dce707c9_1623063476.jpg?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 30915,
+title_fa: "کرنلو ناتس کالا",
+title_en: "kernelo nutskala",
+image: "https://dkstatics-public.digikala.com/digikala-brands/e14e3eb889839e4462d1817622bbf83cc4bc0b13_1636297801.jpg?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+}
+]
+},
+{
+category: {
+id: 10061,
+title_fa: "کارت هدیه",
+title_en: "Gift Card",
+code: "dk-ds-gift-card"
+},
+brands: [
+{
+id: 200,
+title_fa: "دیجی کالا",
+title_en: "Digikala",
+image: "https://dkstatics-public.digikala.com/digikala-brands/bad3ef2902992b456fe656b1f709c9a3fa9aca72_1613570498.png?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+},
+{
+id: 13075,
+title_fa: "دیجی استایل",
+title_en: "Digistyle",
+image: "https://dkstatics-public.digikala.com/digikala-brands/0085bece0075b81209d8cb086798f71cbc376875_1613570519.png?x-oss-process=image/resize,m_lfit,h_180,w_180/quality,q_80"
+}
+]
+}
+]
+}
+},
+{
+type: "small_separator",
+data: [ ]
+},
+{
+type: "general_location",
+data: [ ]
+}
+]
+}
+}

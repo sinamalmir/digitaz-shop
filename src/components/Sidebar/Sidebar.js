@@ -33,6 +33,8 @@ const Sidebar = () => {
             <div className="mb-7">
                 <div className='text-xl font-bold text-orange-500 mb-5'> فیلتر </div>
                 <AccordionSidebar />
+                <AccordionSidebar />
+                <AccordionSidebar />
             </div>
 
         </div>

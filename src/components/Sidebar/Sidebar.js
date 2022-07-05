@@ -3,7 +3,8 @@ import AccordionSidebar from './AccordionSidebar';
 
 const Sidebar = () => {
     return (
-        <div className='bg-white p-5 rounded-xl '>
+        <div className='bg-white p-5 rounded-xl max-h-[calc(100vh_-_130px)] overflow-auto sticky top-24 '>
+            
             <div className="mb-7">
                 <div className='text-xl font-bold text-orange-500 mb-5'> دسته بندی </div>
                 <ul>

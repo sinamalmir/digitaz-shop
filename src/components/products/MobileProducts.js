@@ -8,6 +8,11 @@ const MobileProducts = () => {
             <MobileProduct />
             <MobileProduct />
             <MobileProduct />
+            <MobileProduct />
+            <MobileProduct />
+            <MobileProduct />
+            <MobileProduct />
+            <MobileProduct />
         </div>
     );
 };

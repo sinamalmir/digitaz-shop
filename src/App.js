@@ -3,6 +3,7 @@ import MobileAppBar from './components/header/MobileAppBar';
 import MobileFilterBtn from './components/MobileFilterBtn/MobileFilterBtn';
 import GridArchiveProducts from './components/GridArchiveProducts/GridArchiveProducts';
 import DesktopNavbar from './components/header/DesktopNavbar';
+import BottomNavigation from './components/BottomMobileNavigation/BottomNavigation';
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
         <MobileAppBar />
         <MobileFilterBtn />
         <GridArchiveProducts />
+        <BottomNavigation />
    </div>
   );
 }

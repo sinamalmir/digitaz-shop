@@ -1,10 +1,13 @@
 import React from 'react';
 import SelectColorProduct from "./SelectColorProduct";
+import { Link } from 'react-router-dom';
 
 // functions
 import { shorten } from '../../helper/functions';
 
 const MobileProduct = ({productData}) => {
+
+    console.log("product data", productData);
     
 //   const id = productData.id
 
@@ -23,7 +26,9 @@ const MobileProduct = ({productData}) => {
             } </div>
             <div className='text-orange-600 text-center font-medium sm:text-lg text-sm mb-2'> {productData.price.selling_price } تومان </div>
             <hr className='' />
-            <button className='font-bold text-orange-600 mt-1 text-center w-full py-1 md:text-lg'> مشاهده و سفارش </button>
+            <Link to={'/product/' + productData.id}>
+                <button className='font-bold text-orange-600 mt-1 text-center w-full py-1 md:text-lg'> مشاهده و سفارش </button>            
+            </Link>
 
         </div>
     );

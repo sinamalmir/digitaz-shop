@@ -6,24 +6,24 @@ import ArchiveProducts from './pages/ArchiveProducts';
 // context
 import ProductContextProvider from './context/ProductContextProvider';
 import ProductsDetails from './components/products/ProductsDetails';
+import ProductPage from './pages/ProductPage';
 
 import { getDetailsProducts } from "./api/api"
 
 function App() {
 
-  // console.log(getDetailsProducts())
-
 
   return (
    <div>
-      <ProductContextProvider>
-      
+
+      <ProductContextProvider>   
           <Switch>
-            <Route path='/products/:id' component={ProductsDetails} />
+            <Route path='/product/:id' component={ProductPage} />
             <Route path='/products' component={ArchiveProducts} />
             <Redirect to='/products' />
           </Switch>
       </ProductContextProvider>
+   
    </div>
   );
 }

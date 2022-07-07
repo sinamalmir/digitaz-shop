@@ -7,7 +7,7 @@ import ProductsDetails from "../components/products/ProductsDetails";
 const ProductPage = () => {
     const {id} = useParams();
 
-    console.log("log param", id);
+    // console.log("log param", id);
 
     return(
 

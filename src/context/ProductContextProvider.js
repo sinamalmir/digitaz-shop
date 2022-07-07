@@ -14,13 +14,17 @@ const ProductContextProvider = ({children}) => {
             setProducts(await getProducts());
         }
         fetchAPI();
+       
+       
 
     },[] )
 
 
     return (
        <ProductContext.Provider value={products}>
-            {children}
+
+                {children}
+
        </ProductContext.Provider>
     );
 };

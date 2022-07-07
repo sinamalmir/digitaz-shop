@@ -7,7 +7,7 @@ import { shorten } from '../../helper/functions';
 
 const MobileProduct = ({productData}) => {
 
-    console.log("product data", productData);
+    // console.log("product data", productData);
     
 //   const id = productData.id
 

@@ -2,10 +2,11 @@ import React from 'react';
 import SelectColorProduct from "./SelectColorProduct";
 
 // functions
-import { shorten } from '../helper/functions';
+import { shorten } from '../../helper/functions';
 
 const MobileProduct = ({productData}) => {
     
+//   const id = productData.id
 
     return (
         <div className='bg-white rounded p-2 shadow-md'>

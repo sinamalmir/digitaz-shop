@@ -9,5 +9,6 @@ const getProducts = async () => {
     return response.data.result[4].data.products
 }
 
-export {getProducts};
+
+export {getProducts  };
 

@@ -2,6 +2,7 @@ import React from "react";
 import { useParams } from "react-router-dom";
 import ProductsDetails from "../components/products/ProductsDetails";
 
+import MobileAppBar from "../components/header/MobileAppBar";
 
 
 const ProductPage = () => {
@@ -12,9 +13,9 @@ const ProductPage = () => {
     return(
 
         <>
-            <ProductsDetails 
-                 id={id}
-            />
+            <MobileAppBar />
+            <ProductsDetails id={id} />
+
         </>
     )
 }

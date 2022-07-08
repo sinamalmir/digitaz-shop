@@ -2,13 +2,11 @@ import { Switch , Route , Redirect } from 'react-router-dom';
 
 // pages 
 import ArchiveProducts from './pages/ArchiveProducts';
+import ProductPage from './pages/ProductPage';
 
 // context
 import ProductContextProvider from './context/ProductContextProvider';
-import ProductsDetails from './components/products/ProductsDetails';
-import ProductPage from './pages/ProductPage';
 
-import { getDetailsProducts } from "./api/api"
 
 function App() {
 

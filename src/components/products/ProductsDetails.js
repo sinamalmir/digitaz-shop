@@ -1,4 +1,5 @@
 import React , { useEffect, useState }  from 'react';
+import MobileAppBar from '../header/MobileAppBar';
 
 import {  getDetail } from '../../api/api';
 
@@ -18,9 +19,11 @@ const ProductsDetails = (props) => {
     
     return (
         <div>
-            {props.id}
-            { console.log(productDetail) }
-            {/* <h1> {productDetail.title_fa} </h1> */}
+            <MobileAppBar />
+            {/* {props.id} */}
+            {/* { console.log(productDetail) } */}
+
+            <h1> {productDetail} </h1>
         </div>
     );
 };

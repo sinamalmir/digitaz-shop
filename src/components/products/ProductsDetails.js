@@ -1,4 +1,4 @@
-import React , { useEffect, useState }  from 'react';
+import React , { useEffect, useState , createContext}  from 'react';
 // components
 import MobileAppBar from '../header/MobileAppBar';
 import MobileFilterBtn from '../MobileFilterBtn/MobileFilterBtn';
@@ -6,7 +6,9 @@ import DesktopNavbar from '../header/DesktopNavbar';
 import BottomNavigation from '../BottomMobileNavigation/BottomNavigation';
 
 import {  getDetail } from '../../api/api';
+import SingleProduct from './SingleProduct';
 
+ export const productDetails = createContext();
 
 const ProductsDetails = (props) => {
 
@@ -28,12 +30,13 @@ const ProductsDetails = (props) => {
             {/* {props.id} */}
             {/* { console.log(productDetail) } */}
             {/* <h1> {productDetail} </h1> */}
-
+<productDetails.Provider value={productDetail}>
             <DesktopNavbar />
             <MobileAppBar title="گوشی ایفون ۱۳ " icon={arrow} />
             <MobileFilterBtn />
-
-            <BottomNavigation />
+            <SingleProduct />
+            {/* <BottomNavigation /> */}
+</productDetails.Provider>
 
         </div>
     );

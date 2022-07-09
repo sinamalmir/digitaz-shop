@@ -7,18 +7,14 @@ import { shorten } from '../../helper/functions';
 
 const MobileProduct = ({productData}) => {
 
-    // console.log("product data", productData);
-    
-//   const id = productData.id
 
     return (
         <div className='bg-white rounded p-2 shadow-md'>
             <div className='mb-3 bg-gray-100 rounded-xl p-2'>
                 <img src={productData.images.main} alt="products" />
             </div>
-            <div className='flex justify-between items-center mb-4'>
-                <span className=' text-slate-200 text-sm font-medium md:text-base'> اپل</span>
-                <SelectColorProduct />
+            <div className='flex justify-between items-center w-full mb-4'>
+                <SelectColorProduct text="برند"/>
             </div>
             <div className='md:hidden  mb-2 text-xs text-slate-800 font-bold sm:text-base'> {shorten(productData.title_fa)} </div>
             <div className='hidden md:block  mb-2 text-xs text-slate-800 font-bold sm:text-base'> {

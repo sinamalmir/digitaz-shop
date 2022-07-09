@@ -13,9 +13,7 @@ const ProductPage = () => {
     return(
 
         <>
-            <MobileAppBar />
             <ProductsDetails id={id} />
-
         </>
     )
 }

@@ -7,11 +7,16 @@ import GridArchiveProducts from '../components/GridArchiveProducts/GridArchivePr
 import DesktopNavbar from '../components/header/DesktopNavbar';
 import BottomNavigation from '../components/BottomMobileNavigation/BottomNavigation';
 
-const ArchiveProducts = () => {
+import Logo from '../assets/img/Logo.png';
+
+const ArchiveProducts = (props) => {
+
+    
+
     return (
         <>
             <DesktopNavbar />
-            <MobileAppBar />
+            <MobileAppBar title="گوشی موبایل" icon="Logo" />
             <MobileFilterBtn />
             <GridArchiveProducts />
             <BottomNavigation />

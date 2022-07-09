@@ -8,7 +8,7 @@ const SingleProduct = () => {
 
     return (
         <>
-            <Breadcrumb  />
+            <Breadcrumb />
             <SinglePro />
         </>
     );

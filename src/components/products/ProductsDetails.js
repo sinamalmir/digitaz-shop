@@ -27,17 +27,14 @@ const ProductsDetails = (props) => {
 
     return (
         <div>
-            {/* {props.id} */}
             {/* { console.log(productDetail) } */}
-            {/* <h1> {productDetail} </h1> */}
-<productDetails.Provider value={productDetail}>
-            <DesktopNavbar />
-            <MobileAppBar title="گوشی ایفون ۱۳ " icon={arrow} />
-            <MobileFilterBtn />
-            <SingleProduct />
-            {/* <BottomNavigation /> */}
-</productDetails.Provider>
-
+            <productDetails.Provider value={productDetail}>
+                <DesktopNavbar />
+                <MobileAppBar title="گوشی ایفون ۱۳ " icon={arrow} />
+                <MobileFilterBtn />
+                <SingleProduct />
+                {/* <BottomNavigation /> */}
+            </productDetails.Provider>
         </div>
     );
 };

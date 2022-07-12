@@ -7,6 +7,7 @@ import BottomNavigation from '../BottomMobileNavigation/BottomNavigation';
 
 import {  getDetail } from '../../api/api';
 import SingleProduct from './SingleProduct';
+import FixAddToCart from '../FixAddToCart/FixAddToCart';
 
  export const productDetails = createContext();
 
@@ -33,6 +34,7 @@ const ProductsDetails = (props) => {
                 <MobileAppBar title="گوشی ایفون ۱۳ " icon={arrow} />
                 <MobileFilterBtn />
                 <SingleProduct />
+                <FixAddToCart />
                 {/* <BottomNavigation /> */}
             </productDetails.Provider>
         </div>

@@ -6,11 +6,24 @@ import apple from '../../assets/img/Product-Image.png';
 const SinglePro = () => {
     return (
         <>
-            <div className="flex flex-col bg-white rounded-lg md:p-4">
-                <div className='flex flex-col items-center gap-y-9 px-4  md:flex-auto md:flex-row md:justify-start md:items-start'>
+            <div className="flex flex-col lg:flex-row p-2 md:bg-white rounded-lg md:px-4">
+                <div className='flex flex-col items-center gap-y-9 px-4 md:p-0 md:flex-auto lg:flex-row md:justify-start md:items-start'>
 
-                    <div className='w-4/5 max-w-xs'>
-                        <img src={apple} alt="" className='w-full h-auto' />
+                    {/* images product */}
+                    <div className='w-4/5 max-w-[250px]'>
+                        <img src={apple} alt="product image" className='w-full h-auto' /> 
+                        <div className=" hidden md:flex items-center justify-between px-2 mt-2 gap-x-1 ">
+                            <div className='border rounded-md p-2 border-gray-300'>
+                                <img className='w-full h-auto' src={apple} alt="product image" />    
+                            </div>    
+                            <div className='border rounded-md p-2 border-gray-300'>
+                                <img className='w-full h-auto' src={apple} alt="product image" />    
+                            </div>    
+                            <div className='border rounded-md p-2 border-gray-300'>
+                                <img className='w-full h-auto' src={apple} alt="product image" />    
+                            </div>    
+                        
+                        </div>
                     </div>
 
                     <div className='w-full md:w-auto md:mr-8'>
@@ -59,16 +72,16 @@ const SinglePro = () => {
                         {/* product info */}
                         <div className='text-slate-700 font-bold bg-white p-4 rounded-lg md:bg-none md:p-0'>
                             <h2 className='text-base md:text-xl mb-5'> ویژگی های کالا </h2>
-                            <ul className='list-disc text-sm md:text-lg flex flex-col gap-y-2 marker:text-orange-500 list-inside'>
-                                <li className='flex flex-col gap-y-2 lg:flex-row lg:gap-x-2'>
+                            <ul className='list-disc text-sm xl:text-lg flex flex-col gap-y-2 marker:text-orange-500 list-inside'>
+                                <li className='flex flex-col gap-y-2 xl:flex-row lg:gap-x-2'>
                                     <span className='font-light text-slate-600'> حافظه داخلی: </span>
                                     <span> ۲۵۶ گیگابایت </span>
                                 </li>
-                                <li className='flex flex-col gap-y-2 lg:flex-row lg:gap-x-2'>
+                                <li className='flex flex-col gap-y-2 xl:flex-row lg:gap-x-2'>
                                     <span className='font-light text-slate-600'> بازه ی اندازه ی صفحه نمایش: </span>
-                                    <span> ۰.۶ اینچ و بزرگتر</span>
+                                    <span> ۰.۶ اینچ و بزرگتر</span> 
                                 </li>
-                                <li className='flex flex-col gap-y-2 lg:flex-row lg:gap-x-2'>
+                                <li className='flex flex-col gap-y-2 xl:flex-row lg:gap-x-2'>
                                     <span className='font-light text-slate-600'> شبکه های ارتباطی: </span>
                                     <span> 2G &bull; 3G &bull; 4G &bull; 5G  </span>
                                 </li>
@@ -77,10 +90,25 @@ const SinglePro = () => {
 
                     </div>
                 </div>
-                <div className='w-1/4 bg-red-100 hidden md:flex'>
+                
+                {/* add to cart btn */}
+                <div className='w-1/3 xl:w-1/4  hidden md:block '>
+                    <div className='flex flex-col text-slate-800 gap-y-4 bg-gray-50 p-4 rounded-md'>
+                        <div className="flex items-center">
+                            <span>
 
+                            </span>
+                            <span> فروشنده : </span>
+                            <span> دیجی تاز </span>
+                        </div>
+                        <div className='mt-10'>
+                            <div className='mb-4 font-bold text-orange-500 w-full text-xl text-center'>34,521,000 تومان </div>
+                            <button className='w-full p-4 text-white bg-orange-500 rounded-md '>  افزودن به سبد خرید </button>
+                        </div>
+                    </div>
                 </div>
             </div>
+
         </>
     );
 };

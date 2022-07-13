@@ -15,8 +15,6 @@ const ProductContextProvider = ({children}) => {
         }
         fetchAPI();
        
-       
-
     },[] )
 
 

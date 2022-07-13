@@ -1,13 +1,31 @@
-import React from 'react';
+import React , {useState , useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import Cart from '../../pages/Cart';
 
 import SelectColorProduct from '../products/SelectColorProduct';
 import apple from '../../assets/img/Product-Image.png';
 
+// api
+import { getDetail } from '../../api/api';
+
+
+
+
 const SinglePro = () => {
+    
+    const [productInfo , setProductInfo] = useState([])
+
+    useEffect (() => {
+        const fetchAPI = async () => {
+            setProductInfo(await getDetail());
+        }
+        fetchAPI();     
+    },[] )
+ 
     return (
         <>
+            { console.log(productInfo) }
+
             <div className="flex flex-col lg:flex-row p-2 md:bg-white rounded-lg md:px-4">
                 <div className='flex flex-col items-center gap-y-9 px-4 md:p-0 md:flex-auto lg:flex-row md:justify-start md:items-start'>
 

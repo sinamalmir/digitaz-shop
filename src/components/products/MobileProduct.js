@@ -17,9 +17,7 @@ const MobileProduct = ({productData}) => {
                 <SelectColorProduct text="برند"/>
             </div>
             <div className='md:hidden  mb-2 text-xs text-slate-800 font-bold sm:text-base'> {shorten(productData.title_fa)} </div>
-            <div className='hidden md:block  mb-2 text-xs text-slate-800 font-bold sm:text-base'> {
-                productData.title_fa
-            } </div>
+            <div className='hidden md:block  mb-2 text-xs text-slate-800 font-bold sm:text-base'>{productData.title_fa} </div>
             <div className='text-orange-600 text-center font-medium sm:text-lg text-sm mb-2'> {productData.price.selling_price } تومان </div>
             <hr className='' />
             <Link to={'/product/' + productData.id}>

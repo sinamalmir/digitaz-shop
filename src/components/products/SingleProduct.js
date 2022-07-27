@@ -3,7 +3,7 @@ import Breadcrumb from '../Breadcrumb/Breadcrumb';
 import SinglePro from '../SingleProduct/SinglePro';
 import Sidebar from '../Sidebar/Sidebar';
 
-const SingleProduct = () => {
+const SingleProduct = (props) => {
 
 
 
@@ -23,7 +23,9 @@ const SingleProduct = () => {
                     </div>
                 </div>
                 <div className="col-span-12 md:col-span-8 lg:col-span-10 xl:col-span-10 mt-3 md:mt-0">
-                    <SinglePro />
+                    <SinglePro 
+                        productDetails = {props.productId}
+                    />
                 </div>
           </div>
         </>

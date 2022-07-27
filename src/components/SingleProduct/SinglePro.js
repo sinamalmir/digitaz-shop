@@ -11,24 +11,29 @@ import { getDetail } from '../../api/api';
 
 
 
-const SinglePro = () => {
+const SinglePro = (props) => {
+    // console.log("props single", props);
     
     const [productInfo , setProductInfo] = useState([])
 
     useEffect (() => {
         const fetchAPI = async () => {
-            setProductInfo(await getDetail());
+            setProductInfo(await getDetail(props.productDetails));
         }
         fetchAPI();     
     },[] )
+
+    // console.log("log single pro", props.productDetails);
  
     return (
         <>
-            { console.log(productInfo) }
+        {/* {productInfo.data.result.images.main} */}
+            {/* { console.log("produt Info" ,productInfo.data.result.images.main) } */}
+            {/* {console.log("log check", productInfo.data.result.brand.title_en)} */}
 
             <div className="flex flex-col lg:flex-row p-2 md:bg-white rounded-lg md:px-4">
                 <div className='flex flex-col items-center gap-y-9 px-4 md:p-0 md:flex-auto lg:flex-row md:justify-start md:items-start'>
-
+                
                     {/* images product */}
                     <div className='w-4/5 max-w-[250px]'>
                         <img src={apple} alt="product image" className='w-full h-auto' /> 
@@ -41,7 +46,10 @@ const SinglePro = () => {
                             </div>    
                             <div className='border rounded-md p-2 border-gray-300 hover:shadow-[0_-4px_8px_0_rgba(0,0,0,0.1)] transition-all duration-100 cursor-pointer'>
                                 <img className='w-full h-auto' src={apple} alt="product image" />    
-                            </div>    
+                                {/* <h1>
+                                    {productInfo.data.result.id}
+                                </h1> */}
+                            </div>
                         
                         </div>
                     </div>
